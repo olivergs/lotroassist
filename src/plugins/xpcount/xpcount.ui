@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<interface>
+  <requires lib="gtk+" version="2.16"/>
+  <!-- interface-naming-policy project-wide -->
+  <object class="GtkWindow" id="winMain">
+    <child>
+      <object class="GtkVBox" id="vbxMain">
+        <property name="visible">True</property>
+        <child>
+          <object class="GtkHBox" id="hbxExperience">
+            <property name="height_request">32</property>
+            <property name="visible">True</property>
+            <child>
+              <object class="GtkLabel" id="lblTotalXP">
+                <property name="visible">True</property>
+                <property name="xpad">5</property>
+                <property name="label" translatable="yes">0</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">False</property>
+                <property name="position">0</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkImage" id="imgExperience">
+                <property name="visible">True</property>
+                <property name="pixbuf">pixmaps/xp.png</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">False</property>
+                <property name="position">1</property>
+              </packing>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">False</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

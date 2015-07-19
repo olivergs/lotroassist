@@ -1,0 +1,138 @@
+-3.0;-107.5;Ancient Records;Item
+-3.3;-107.8;Ancient Records;Item
+-3.8;-107.3;Ancient Records;Item
+-4.2;-108.2;Ancient Records;Item
+-2.9;-106.9;Arnfinn;NPC
+-4.3;-110.2;bat-cave;POI
+-2.3;-102.0;Cage;Item
+-2.5;-101.8;Cage;Item
+-2.5;-101.7;Cage;Item
+-2.4;-101.6;Cage;Item
+-2.9;-101.9;Cage;Item
+-3.0;-101.6;Cage;Item
+-3.5;-104.7;Cauldron;Item
+-3.5;-105.0;Cauldron;Item
+-3.5;-104.3;Cauldron;Item
+-3.7;-104.6;Cauldron;Item
+-3.8;-104.3;Cauldron;Item
+-3.7;-105.0;Cauldron;Item
+-3.6;-109.3;Central Statue;Item
+-4.1;-100.8;Dar-rukh;POI
+-2.9;-104.6;Decaying column;Item
+-3.1;-104.2;Decaying column;Item
+-4.3;-104.9;Decaying column;Item
+-4.2;-104.9;Decaying column;Item
+-4.3;-104.6;Decaying column;Item
+-4.1;-104.0;Decaying column;Item
+-2.9;-104.9;Decaying column;Item
+-3.1;-105.0;Decaying column;Item
+-3.6;-110.8;Durin's Crossing;POI
+-3.8;-101.8;Erlar;NPC
+-4.1;-104.6;Fehem-dum;POI
+-5.2;-112.0;Forge-master The Chamber of the Crossroads;Item-master
+-3.9;-105.7;Forge-master The Stone Hall;Item-master
+-4.1;-111.2;Gloku-ru;POI
+-4.5;-111.9;Goblin-drum;Item
+-4.5;-112.0;Goblin-drum;Item
+-4.8;-112.1;Goblin-drum;Item
+-4.7;-111.9;Goblin-drum;Item
+-4.7;-111.8;Goblin-drum;Item
+-4.6;-111.8;Goblin-drum;Item
+-3.0;-100.8;Grishurbhrum;POI
+-3.0;-104.7;Hadad-dum;POI
+-5.4;-108.9;Hadudbab;POI
+-5.1;-112.1;Healer The Chamber of the Crossroads;Healer
+-4.0;-105.7;Healer The Stone Hall;Healer
+-3.6;-106.0;Jazargund;POI
+-5.4;-110.2;Jundulbab;POI
+-3.6;-104.6;Jundul-dum;POI
+-2.7;-100.1;Khulturg;POI
+-3.8;-112.5;Krum;NPC
+-5.2;-112.0;Mailbox The Chamber of the Crossroads;Item
+-3.8;-105.9;Mailbox The Stone Hall;Item
+-5.6;-112.0;Manarbul;POI
+-5.2;-111.9;Milestone The Chamber of the Crossroads;Milestone
+-3.9;-105.7;Milestone The Stone Hall;Milestone
+-3.6;-109.1;Mirror;Item
+-4.5;-100.5;Mirror Of Bogrian;Item
+-4.8;-107.2;Mokurzmul;POI
+-3.4;-110.7;Moria-mirror;Item
+-3.3;-106.9;Moria-mirror;Item
+-2.5;-102.4;Morvul-scout;Mob
+-3.2;-111.9;Mudmulzarak;POI
+-3.4;-99.3;Nest;Item
+-3.6;-99.0;Nest;Item
+-3.6;-99.1;Nest;Item
+-3.6;-99.4;Nest;Item
+-3.9;-99.3;Nest;Item
+-4.0;-99.6;Nest;Item
+-4.1;-99.8;Nest;Item
+-3.6;-99.9;Nest;Item
+-3.6;-112.9;Ninknakh Faltor;POI
+-3.0;-109.0;Northern Statue;Item
+-2.9;-107.2;Entrance to The Peaceful Path;POI
+-2.9;-109.6;Pile Of Old Weapons;Item
+-5.1;-112.1;Provisioner The Chamber of the Crossroads;Provisioner
+-4.0;-105.7;Provisioner The Stone Hall;Provisioner
+-5.1;-112.1;Purple Door;POI
+-5.2;-111.9;Relic-master The Chamber of the Crossroads;Item-master
+-3.9;-105.7;Relic-master The Stone Hall;Item-master
+-3.6;-107.5;Salab Nurjundul;POI
+-5.7;-112.0;Shattered statue;POI
+-3.0;-104.7;Sheet-music;Item
+-2.9;-104.4;Sheet-music;Item
+-2.9;-104.2;Sheet-music;Item
+-4.3;-104.6;Sheet-music;Item
+-4.2;-105.0;Sheet-music;Item
+-4.2;-104.4;Sheet-music;Item
+-3.6;-99.6;Skoiruzg;POI
+-4.2;-109.1;Southern Statue;Item
+-5.7;-112.1;Sporr;NPC
+-5.2;-112.1;Stable-master The Chamber of the Crossroads;Stablemaster
+-3.7;-106.0;Stable-master The Stone Hall;Stablemaster
+-2.9;-110.8;Stable-master Zirakzigil;Stablemaster
+-3.1;-107.8;Statue-arm;Item
+-3.1;-108.0;Sulnul-dum;POI
+-4.3;-112.4;Supply-crate;Item
+-4.0;-112.3;Supply-crate;Item
+-3.6;-112.0;Supply-crate;Item
+-3.3;-112.1;Supply-crate;Item
+-3.1;-112.1;Supply-crate;Item
+-2.9;-111.9;Supply-crate;Item
+-5.2;-112.2;Tankard in Chamber Of Crossroads;Item
+-3.9;-105.7;Tankard in Stone-hall;Item
+-3.6;-109.2;Tharakh Bazan;POI
+-5.1;-112.1;The Chamber of the Crossroads;POI
+-2.8;-110.8;The Door to the Clouds;POI
+-4.1;-108.0;The Glass-hall;POI
+-4.7;-112.0;The Hall of the High Stair;POI
+-3.1;-107.2;The Mustering Hall;POI
+-5.8;-106.7;The Twenty-first Hall: West Arch;POI
+-2.7;-101.8;Tith-maudhul;POI
+-3.1;-110.3;Uflump-mur;POI
+-3.7;-110.9;White Hand Emissary;Mob
+-4.3;-111.1;White Hand Emissary;Mob
+-3.6;-112.8;White Hand Emissary;Mob
+-4.0;-107.1;Zabad-dum;POI
+-4.3;-104.0;Zahof;Mob
+-4.1;-110.4;Zarargharaf;POI
+-5.7;-107.6;Zigilnab;POI
+-3.1;-112.0;Taugan;Mob, Moria Warg-Rider Mithril Flake Dropper (roaming around)
+-2.7;-103.0;Pile Of Old Weapons;Item
+-5.5;-108.9;Darri;NPC
+-5.5;-108.9;Orvar;NPC
+-5.5;-108.9;Galadhrim Reputation Trader;NPC
+-5.4;-108.9;Mekeb-faham;POI
+-5.5;-108.9;Mekeb-farak;POI
+-5.5;-108.9;Iron Garrison Resource Cache;Item
+-4.3;-108.6;Buzun-ghar entrance (book 2.7.4);POI
+-4.3;-102.0;Crystal Sample;Item
+-4.4;-102.0;Crystal Sample;Item
+-4.5;-102.0;Crystal Sample;Item
+-4.7;-102.2;Crystal Sample;Item
+-4.6;-102.2;Crystal Sample;Item
+-4.5;-102.2;Crystal Sample;Item
+-5.2;-112.0;Frar;NPC
+-5.2;-112.0;Dor;NPC
+-5.2;-112.0;Hrolfur;NPC
+-5.2;-111.9;Sigdan;NPC

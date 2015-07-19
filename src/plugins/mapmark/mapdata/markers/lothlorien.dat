@@ -1,0 +1,474 @@
+-15.1;-75.6;Athmadhul;POI
+-14.1;-78.0;Dru-garmadh;POI
+-15.1;-75.9;Dulgurz;Mob
+-15.0;-75.8;Fence;Item
+-15.0;-75.9;Fence;Item
+-15.0;-76.1;Fence;Item
+-15.1;-76.0;Fence;Item
+-15.2;-75.9;Fence;Item
+-15.2;-75.7;Fence;Item
+-11.6;-78.5;Forge-master;Item-master
+-14.2;-73.1;Forge-master;Item-master
+-15.4;-66.9;Galadriel;NPC
+-16.2;-73.5;Haldir;NPC
+-11.5;-78.5;Healer Mekhem-Bizru;Healer
+-13.5;-77.9;Hidden Cave (final riddle quest);POI
+-16.2;-73.4;Ladder To Talan Haldir;Item
+-12.7;-77.3;Istash;Mob
+-13.8;-78.0;Lurkh;Mob
+-11.5;-78.5;Mailbox Mekhem-Bizru;Item
+-11.5;-78.6;Mailbox Mekhem-Bizru;Item
+-11.5;-78.4;Milestone Mekhem-Bizru;Milestone
+-14.4;-73.3;Milestone Echad Andestel;Milestone
+-13.9;-77.8;Moria catapulta;Item
+-14.2;-77.9;Moria catapulta;Item
+-14.2;-77.8;Moria catapulta;Item
+-14.2;-78.0;Moria Orc-emissary;Mob
+-12.8;-77.5;Moria Orc-emissary;Mob
+-15.1;-75.5;Moria Orc-emissary;Mob
+-14.0;-77.8;Moria siege-engine;Item
+-13.9;-78.1;Moria siege-engine;Item
+-14.3;-77.9;Moria siege-engine;Item
+-14.3;-77.7;Nust;Mob
+-14.8;-72.9;Orophin;NPC
+-12.9;-77.6;Piece Of Durin's Stone;Item
+-12.8;-77.4;Piece Of Durin's Stone;Item
+-12.7;-77.5;Piece Of Durin's Stone;Item
+-12.8;-77.6;Piece Of Durin's Stone;Item
+-12.6;-77.7;Piece Of Durin's Stone;Item
+-12.6;-77.4;Piece Of Durin's Stone;Item
+-13.9;-77.8;Pile Of Wood;Item
+-14.1;-77.8;Pile Of Wood;Item
+-14.0;-77.9;Pile Of Wood;Item
+-14.0;-78.0;Pile Of Wood;Item
+-14.3;-77.8;Pile Of Wood;Item
+-14.2;-77.7;Pile Of Wood;Item
+-11.6;-78.5;Provisioner Mekhem-Bizru;Provisioner
+-14.1;-73.0;Provisioner Echad Andestel;Provisioner
+-11.5;-78.5;Relic-master;Item-master
+-14.3;-73.0;Relic-master;Item-master
+-11.5;-79.8;Riddle;Item
+-15.4;-73.2;Rumil;NPC
+-15.1;-75.6;Soft Dirt;Item
+-12.8;-77.5;Soft Dirt;Item
+-14.0;-77.8;Soft Dirt;Item
+-10.0;-80.3;The Fallen Ice;POI
+-12.7;-77.5;Uruk-gashan;POI
+-11.5;-78.5;Alrekur;NPC
+-11.3;-73.3;Bolg Maufulug;POI
+-10.0;-72.6;Drumaudhul;POI
+-10.3;-72.0;Gazpush;POI
+-9.0;-73.1;Bidroi Maudhul;POI
+-8.4;-72.6;Prakuth-fulug;POI
+-8.3;-73.5;Nardur-stazg;POI
+-15.6;-72.8;Nimrodeliant;POI
+-16.2;-73.5;Talan Haldir;POI
+-15.0;-72.3;Talan Tirith;POI
+-15.7;-72.3;Talan Atharchen;POI
+-15.9;-72.3;Talan Dolinhen;POI
+-16.4;-72.7;Talan Mallelas;POI
+-16.3;-70.2;Lady's Rest;POI
+-17.5;-70.0;Brochos;POI
+-18.2;-65.4;The Elder Circle;POI
+-18.5;-64.0;The Vinyards of Lorien;POI
+-17.3;-64.0;Imlad Lalaith;POI
+-14.3;-69.2;The Stone-grove;POI
+-13.5;-72.1;Talan Orthelian;POI
+-11.4;-70.7;Talan Gwilith;POI
+-12.1;-71.1;Talan Fanuidhol;POI
+-12.8;-70.1;Cerin Nauth;POI
+-10.9;-69.4;The Quiet Garden;POI
+-11.9;-67.8;Cerin Amroth;POI
+-12.0;-64.9;The Peaceful Glade;POI
+-12.9;-67.2;Bain Gwaloth;POI
+-12.6;-64.5;Sad Gilthiriad;POI
+-13.5;-66.0;The Garden of Memory;POI
+-10.9;-72.0;Golugrak;POI
+-10.3;-71.1;Mokurz Gundul;POI
+-9.5;-66.9;Torech Aewen;POI
+-9.4;-65.3;Talan Revail;POI
+-9.8;-64.7;The Ring of Melbrethil;POI
+-10.4;-63.9;Cerin Brethil;POI
+-12.2;-62.4;Talan Brethil;POI
+-12.8;-62.9;Gworast;POI
+-15.0;-73.2;Orc Filth;Item
+-15.1;-72.7;Orc Filth;Item
+-15.1;-72.6;Orc Filth;Item
+-14.6;-72.8;Orc Filth;Item
+-14.5;-72.7;Orc Filth;Item
+-16.1;-72.5;Orc Corpse;Item
+-16.0;-72.5;Orc Corpse;Item
+-16.2;-72.5;Orc Corpse;Item
+-15.4;-72.6;Orc Corpse;Item
+-15.2;-72.6;Orc Corpse;Item
+-14.9;-72.5;Orc Corpse;Item
+-14.3;-72.6;Orc Corpse;Item
+-12.8;-77.5;Orc Campfire;Item
+-12.9;-77.5;Orc Campfire;Item
+-12.9;-77.6;Orc weapons;Item
+-12.9;-77.5;Orc weapons;Item
+-12.8;-77.5;Orc weapons;Item
+-15.0;-75.7;Orc weapons;Item
+-15.0;-75.8;Orc weapons;Item
+-13.9;-77.9;Orc weapons;Item
+-14.1;-77.8;Orc weapons;Item
+-14.1;-77.9;Orc weapons;Item
+-14.2;-73.0;Bundle Of Arrows;Item
+-11.7;-78.6;Meredhrandir;NPC
+-13.0;-77.5;Barricade;Item
+-12.7;-77.5;Barricade;Item
+-13.8;-77.7;Barricade;Item
+-13.9;-77.6;Barricade;Item
+-14.8;-75.5;Barricade;Item
+-14.8;-75.6;Barricade;Item
+-11.5;-78.6;Mekhem-Bizru Stablemaster;Stablemaster
+-14.4;-73.1;Echad Andestel Stablemaster;Stablemaster
+-14.2;-73.0;Echad Andestel;POI
+-11.5;-78.5;Mekhem-Bizru;POI
+-14.3;-73.1;Ambendel;NPC
+-14.2;-73.0;Dindirith;NPC
+-14.2;-73.0;Celeguien;NPC
+-14.1;-73.0;Asmund;NPC
+-14.2;-73.2;Limhendeth;NPC
+-16.2;-73.4;Maethoron;NPC
+-16.2;-73.5;Hadroneth;NPC
+-11.6;-78.5;Otam;NPC
+-11.5;-78.6;Raskwith;NPC
+-11.5;-78.5;Haflith;NPC
+-11.5;-78.5;Dagfari;NPC
+-16.2;-72.5;Galadhrim Lookout (starting book 7.1 and access to Golden Wood);NPC
+-16.4;-70.0;Andiriniel;NPC
+-18.2;-64.2;The Vinyards Of Lorien Stablemaster;Stablemaster
+-18.3;-64.1;Farasdur;NPC
+-18.3;-64.1;Glasnir;NPC
+-18.6;-63.8;Aesbrennil;NPC
+-18.6;-63.8;Hadhelen;NPC
+-18.6;-63.8;Maenasdur;Master of Apprentices
+-18.6;-63.7;Superior Forge;Item
+-18.6;-63.9;Superior Oven;Item
+-18.5;-63.8;Superior Study;Item
+-18.5;-63.7;Superior Workbench;Item
+-18.6;-63.8;Expert Cook;Expert Cook
+-18.5;-63.8;Expert Jeweller;Expert Jeweller
+-18.6;-63.7;Expert Metalsmith;Expert Metalsmith
+-18.5;-63.8;Expert Scholar;Expert Scholar
+-18.5;-63.7;Expert Tailor;Expert Tailor
+-18.6;-63.8;Expert Weaponcrafter;Expert Weaponcrafter
+-18.5;-63.8;Expert Woodworker;Expert Woodworker
+-18.5;-63.8;Mailbox Vinyards Of Lorien;Item
+-18.6;-63.8;Healer Vinyards Of Lorien;Healer
+-18.5;-63.8;Provisioner Vinyards Of Lorien;Provisioner
+-18.5;-63.8;Bachwen;Supplier
+-17.2;-64.0;Maliriel;NPC
+-17.2;-64.1;Galhiril;NPC
+-17.2;-64.0;Glordirith;NPC
+-16.7;-67.5;Caras Galadhon Stablemaster;Stablemaster
+-16.7;-67.4;Mailbox Caras Galadhon;Item
+-13.0;-67.2;Meluibrennil;NPC
+-13.0;-67.2;Santhirwen;NPC
+-12.9;-67.1;Meriadock Brandybuck;NPC
+-13.0;-67.1;LothLorien Reflection Pool;Item
+-11.8;-67.7;Samwise Gamgee;NPC
+-11.8;-67.7;Frodo Baggins;NPC
+-11.8;-67.8;Mailbox Cerin Amroth;Item
+-11.9;-68.1;Mallendathor;NPC
+-11.9;-68.1;Menassiel;NPC
+-11.9;-67.8;Ladder to Cerin Amroth;Item
+-11.9;-67.8;Thavronwe;NPC
+-11.9;-67.8;Merenedhel;NPC, trader
+-11.9;-67.8;Tharnelleth;NPC, trader
+-11.9;-67.8;Tuilinn;NPC
+-12.0;-67.8;Gimli;NPC
+-12.0;-67.8;Legolas;NPC
+-11.8;-68.8;Orthir;NPC
+-11.9;-69.0;Milwen;NPC
+-11.7;-69.1;Cerin Amroth Stablemaster;Stablemaster
+-11.1;-69.1;Boromir;NPC
+-12.1;-69.0;Red-berry bush;Item
+-12.3;-69.1;Red-berry bush;Item
+-12.4;-69.1;Red-berry bush;Item
+-12.3;-68.9;Red-berry bush;Item
+-12.4;-68.7;Red-berry bush;Item
+-12.9;-69.5;Red-berry bush;Item
+-12.8;-69.7;Red-berry bush;Item
+-12.6;-69.6;Red-berry bush;Item
+-12.5;-69.7;Red-berry bush;Item
+-12.3;-69.8;Red-berry bush;Item
+-12.2;-69.6;Red-berry bush;Item
+-12.3;-69.5;Red-berry bush;Item
+-12.5;-69.2;Red-berry bush;Item
+-12.2;-69.3;Red-berry bush;Item
+-12.1;-69.4;Red-berry bush;Item
+-11.8;-69.4;Red-berry bush;Item
+-11.8;-69.3;Red-berry bush;Item
+-12.8;-69.3;Red-berry bush;Item
+-12.6;-69.3;Red-berry bush;Item
+-12.8;-70.1;Pennasseth;NPC
+-11.3;-70.7;Ladder to Talan Gwilith;Item
+-11.4;-70.7;Gornellon;NPC
+-11.4;-70.7;Baranglim;NPC
+-11.4;-70.7;Raincon;NPC
+-12.1;-71.0;Ladder to Talan Fanuidhol;Item
+-12.1;-71.0;Faelleron;NPC
+-12.1;-71.0;Lorien preparations for war;Item
+-12.1;-71.0;Lorien endangered by Orcs;Item
+-12.0;-71.1;Lomguil;NPC, trader
+-12.0;-71.1;Idhbrennil;NPC, trader
+-12.1;-71.1;Maenhador;NPC
+-12.1;-71.1;Bahanneth;NPC
+-8.3;-73.8;Targrat the Proud;Mob
+-10.8;-72.0;Crate;Item
+-10.4;-72.7;Crate;Item
+-11.0;-72.8;Crate;Item
+-11.2;-73.4;Crate;Item
+-11.3;-73.3;Crate;Item
+-11.4;-73.2;Crate;Item
+-10.4;-72.5;Orc lumber-pile;Item
+-10.3;-72.7;Orc lumber-pile;Item
+-10.2;-72.9;Orc lumber-pile;Item
+-10.2;-72.9;Orc lumber-pile;Item
+-9.8;-72.9;Orc lumber-pile;Item
+-9.6;-72.8;Orc lumber-pile;Item
+-9.8;-72.6;Orc lumber-pile;Item
+-9.1;-73.0;Weapon-store;Item
+-9.1;-73.1;Weapon-store;Item
+-8.5;-73.4;Weapon-store;Item
+-8.4;-73.5;Weapon-store;Item
+-8.2;-73.4;Weapon-store;Item
+-9.4;-65.3;Cuvroval;NPC
+-9.3;-65.4;Ladder to Talan Revail;Item
+-10.4;-63.6;Birch-wood;Item
+-10.2;-63.8;Birch-wood;Item
+-10.0;-63.8;Birch-wood;Item
+-10.0;-64.1;Birch-wood;Item
+-10.2;-64.2;Birch-wood;Item
+-10.4;-63.8;Malbrethil-sapling;Item
+-10.3;-64.1;Malbrethil-sapling;Item
+-10.7;-63.7;Malbrethil-sapling;Item
+-10.1;-64.3;Malbrethil-sapling;Item
+-12.8;-62.4;Stone;Item
+-12.7;-62.6;Stone;Item
+-13.0;-62.7;Stone;Item
+-12.8;-62.8;Stone;Item
+-12.6;-63.0;Stone;Item
+-12.2;-62.3;Ladder to Talan Brethil;Item
+-12.0;-64.9;Naeris;NPC
+-12.0;-64.9;Sendiel;NPC
+-11.0;-67.7;White Rock;Item
+-11.0;-67.9;White Rock;Item
+-10.9;-68.3;White Rock;Item
+-11.1;-67.4;White Rock;Item
+-11.0;-67.2;White Rock;Item
+-17.6;-64.6;Legendary Burglar Trader;Weapontrader
+-17.3;-64.7;Legendary Captain Trader;Weapontrader
+-17.5;-64.7;Legendary Champion Trader;Weapontrader
+-17.5;-64.7;Legendary Guardian Trader;Weapontrader
+-17.6;-64.6;Legendary Hunter Trader;Weapontrader
+-17.6;-64.6;Legendary Loremaster Trader;Weapontrader
+-17.3;-64.7;Legendary Minstrel Trader;Weapontrader
+-17.4;-64.7;Legendary Runekeeper Trader;Weapontrader
+-17.4;-64.7;Legendary Warden Trader;Weapontrader
+-17.5;-64.6;Bassiril;NPC, trader
+-17.4;-64.6;Aesseryn;NPC, trader
+-18.3;-63.9;Vintner's Trellis;Item
+-18.2;-63.9;Vintner's Trellis;Item
+-18.5;-64.2;Vintner's Trellis;Item
+-18.4;-64.2;Vintner's Trellis;Item
+-18.4;-64.3;Vintner's Trellis;Item
+-18.5;-64.2;Vintner's Tub;Item
+-18.5;-64.1;Vintner's Tub;Item
+-18.4;-64.2;Vintner's Tub;Item
+-17.0;-64.2;Gwollug (roaming around);Mob, 60lvl elite lizard
+-17.8;-63.8;Ladder to unknown tree's top;Item
+-17.7;-64.2;Button Mushroom;Item
+-17.8;-64.1;Button Mushroom;Item
+-17.4;-64.5;Button Mushroom;Item
+-17.2;-64.6;Button Mushroom;Item
+-17.5;-64.9;Button Mushroom;Item
+-17.7;-64.5;Button Mushroom;Item
+-17.3;-65.2;Button Mushroom;Item
+-17.1;-65.5;Button Mushroom;Item
+-16.6;-64.6;Berry-bearing bush;Item
+-16.6;-64.8;Berry-bearing bush;Item
+-16.3;-64.2;Berry-bearing bush;Item
+-16.9;-64.7;Berry-bearing bush;Item
+-16.8;-64.9;Berry-bearing bush;Item
+-16.7;-65.1;Berry-bearing bush;Item
+-16.1;-65.0;Berry-bearing bush;Item
+-15.9;-65.0;Berry-bearing bush;Item
+-17.5;-69.3;Ladder to unknown tree's top;Item
+-18.3;-65.5;Finely-wrought brooch;Item
+-18.3;-65.6;Bucket;Item
+-17.1;-64.0;Lantern;Item
+-17.0;-64.1;Lantern;Item
+-16.9;-64.1;Lantern;Item
+-16.9;-64.2;Lantern;Item
+-16.8;-64.3;Lantern;Item
+-16.8;-64.5;Lantern;Item
+-16.8;-64.7;Lantern;Item
+-16.7;-64.8;Lantern;Item
+-16.5;-64.9;Lantern;Item
+-16.6;-65.1;Lantern;Item
+-16.5;-65.3;Lantern;Item
+-16.6;-65.5;Lantern;Item
+-16.7;-65.7;Lantern;Item
+-11.7;-67.9;Niphredil;Item
+-11.7;-67.8;Niphredil;Item
+-11.6;-67.6;Niphredil;Item
+-11.6;-67.5;Niphredil;Item
+-11.8;-67.5;Niphredil;Item
+-11.9;-67.5;Niphredil;Item
+-11.7;-67.8;Elanor;Item
+-11.7;-67.4;Elanor;Item
+-12.0;-67.4;Elanor;Item
+-12.0;-67.5;Elanor;Item
+-12.1;-67.7;Elanor;Item
+-12.3;-67.7;Elanor;Item
+-16.2;-67.2;Galadhrim Guard (access to Caras Galadhon);NPC
+-16.0;-67.1;Trevadiel;NPC
+-16.1;-67.1;Sileffind;NPC
+-16.1;-67.1;Donndageth;NPC
+-16.1;-67.1;Mithenn;NPC
+-16.1;-67.1;Lorien preparations for war;Item
+-16.2;-67.0;Minathlang;NPC
+-16.1;-67.0;Belvagor;NPC
+-16.1;-67.0;Rilhathel;NPC
+-16.1;-67.0;Bainien;NPC, trader
+-16.1;-67.0;Lorien endangered by Orcs;Item
+-16.2;-66.7;Lintwen;NPC
+-15.9;-66.9;Aecthor;NPC
+-15.5;-67.2;Celechest;NPC
+-14.9;-67.2;Celurlin;POI
+-15.0;-67.1;Forbad;NPC
+-14.9;-66.9;Miluiel;NPC
+-15.0;-66.9;Gladmeldis;NPC
+-15.0;-66.9;Peregrin Took;NPC
+-15.0;-66.8;Aragorn;NPC
+-14.8;-67.1;Nembes;NPC
+-14.8;-67.1;Pitcher Of Water;Item
+-14.4;-66.7;Ladder to Telain Neduil;Item
+-14.7;-66.6;Ospiel;NPC
+-14.7;-66.7;Bregradel;NPC
+-14.6;-66.8;Cordofron;NPC
+-15.5;-66.4;Luinhen;NPC
+-15.9;-67.4;Ladder to Telain Glorelloth;Item
+-15.7;-67.2;Bruicheron;NPC
+-15.6;-67.2;Flet-Runner (Bregradel);NPC
+-14.7;-66.3;Demlindeth;NPC
+-14.8;-66.2;Ladder to Telain Neduil;Item
+-14.9;-66.4;Cubenn;NPC
+-15.3;-66.2;Ladder to the top of Telain Neduil;Item
+-14.5;-66.3;Parched Elf;NPC
+-15.5;-66.1;Losdirith;NPC
+-14.5;-67.5;Ladder to Telain Melthin;Item
+-14.8;-67.9;Basdan;NPC
+-15.1;-67.7;Leginiel;NPC
+-15.0;-67.8;Ladder to Telain Bangad;Item
+-14.7;-67.8;Ladder to Telain Bangad;Item
+-15.1;-68.2;Inner Caras Galadhon Stablemaster;Stablemaster
+-15.0;-68.2;Flet-Runner (Leginiel);NPC
+-15.7;-67.8;Randiron;NPC
+-15.8;-67.7;Rainen;NPC
+-15.7;-67.8;Aesgyl;NPC
+-15.8;-67.8;Padril;NPC
+-15.9;-67.8;Orelleth;NPC, trader
+-15.9;-67.8;Ganneldur;NPC, trader
+-15.9;-67.9;Isdur;NPC, trader
+-15.8;-67.9;Nelliel;NPC, trader
+-15.7;-67.9;Ruimbas;NPC, trader
+-15.3;-67.9;Istarien;NPC, trader
+-15.4;-67.9;Lagordal;NPC, trader
+-15.7;-67.7;Auctioner;Auctioneer
+-15.5;-67.7;Superior Forge;Item
+-15.5;-67.7;Superior Oven;Item
+-15.5;-67.7;Superior Study;Item
+-15.5;-67.7;Superior Workbench;Item
+-15.5;-67.7;Expert Cook;Expert Cook
+-15.5;-67.7;Expert Jeweller;Expert Jeweller
+-15.5;-67.7;Expert Metalsmith;Expert Metalsmith
+-15.5;-67.7;Expert Scholar;Expert Scholar
+-15.5;-67.7;Expert Tailor;Expert Tailor
+-15.5;-67.7;Expert Weaponcrafter;Expert Weaponcrafter
+-15.5;-67.7;Expert Woodworker;Expert Woodworker
+-15.6;-67.8;Mailbox Caras Galadhon;Item
+-15.5;-67.7;Mailbox Caras Galadhon;Item
+-15.7;-67.7;Mailbox Caras Galadhon;Item
+-15.7;-67.9;Milestone Caras Galadhon;Milestone
+-15.6;-67.9;Burglar Trainer;Burglar Trainer
+-15.6;-67.9;Captain Trainer;Captain Trainer
+-15.7;-67.7;Champion Trainer;Champion Trainer
+-15.6;-67.9;Guardian Trainer;Guardian Trainer
+-15.7;-67.7;Hunter Trainer;Hunter Trainer
+-15.7;-67.7;Loremaster Trainer;Loremaster Trainer
+-15.8;-68.0;Ministrel Trainer;Ministrel Trainer
+-15.6;-67.7;Runekeeper Trainer;Runekeeper Trainer
+-15.5;-67.8;Warden Trainer;Warden Trainer
+-15.5;-67.7;Mistress Of Apprentices;Master of Apprentices
+-15.6;-67.8;Vault-Keeper;NPC
+-15.5;-67.7;Healer Caras Galadhon;Healer
+-15.5;-67.7;Provisioner Caras Galadhon;Provisioner
+-15.5;-67.7;Supplier Caras Galadhon;Supplier
+-15.0;-68.0;Telain Bangad;POI
+-16.0;-67.5;Telain Glorelloth;POI
+-14.9;-66.3;Telain Neduil;POI
+-14.4;-67.4;Telain Melthin;POI
+-15.9;-66.3;Galadriel's Garden;POI
+-15.0;-66.8;The Company's Pavillion;POI
+-15.4;-67.0;The House Of Celeborn;POI
+-15.4;-66.9;Donfuin;NPC
+-15.4;-66.9;Celeborn;NPC
+-15.1;-67.8;Windblown Page;Item
+-15.1;-67.8;Windblown Page;Item
+-14.8;-67.8;Windblown Page;Item
+-14.6;-67.8;Windblown Page;Item
+-15.3;-67.7;Windblown Page;Item
+-16.1;-67.7;Pennasdir;NPC
+-16.3;-67.4;Nurelleth;NPC
+-17.2;-63.6;Lonely Tree;Item
+-16.8;-67.3;Stack Of Supplies;Item
+-15.7;-67.0;Pipe-weed Pouch;Item
+-14.5;-67.0;Parched Elf;NPC
+-15.3;-67.1;Parched Elf;NPC
+-15.7;-67.8;Telain Galadhrim;POI
+-15.1;-67.9;Silver Plate;Item
+-15.4;-67.6;Flet-Runner (Crafting Hall);NPC
+-14.8;-66.4;Flet-Runner (Lagordal);NPC
+-15.4;-66.9;Flet-Runner (Lintwen);NPC
+-13.5;-72.1;Ladder To Talan Orthelian;Item
+-15.0;-72.2;Ladder To Talan Tirith;Item
+-15.7;-72.2;Ladder To Talan Atharchen;Item
+-16.0;-72.3;Ladder To Talan Dolinhen;Item
+-16.4;-72.2;Ladder To Talan Mallelas;Item
+-11.9;-67.9;Issuriel;NPC
+-14.2;-73.1;Bard of the LothLorien;Bard
+-15.7;-67.8;Bard of the Caras Galadhon;Bard
+-14.2;-73.0;Campfire;Item
+-14.3;-73.1;Campfire;Item
+-14.3;-73.0;Campfire;Item
+-14.2;-73.1;Ardela (Taxidermist);NPC
+-14.1;-73.1;Moll (Burglar Trader);Medium Armor Trader
+-14.1;-73.1;Daega (Captain Trader);Heavy Armor Trader
+-14.1;-73.1;Bass (Champion Trader);Heavy Armor Trader
+-14.1;-73.1;Cwenel (Guardian Trader);Heavy Armor Trader
+-14.1;-73.1;Hugi (Hunter Trader);Medium Armor Trader
+-14.3;-73.1;Fearn (Loremaster Trader);Light Armor Trader
+-14.2;-73.1;Inela (Minstrel Trader);Light Armor Trader
+-14.2;-73.2;Eadla (Runekeeper Trader);Light Armor Trader
+-14.1;-73.1;Gisel (Warden Trader);Medium Armor Trader
+-18.5;-63.8;Maenasdir (LothLorien Crafting Guild Emissary);NPC
+-17.6;-64.6;Boat To Mirkwood;Item
+-17.6;-64.6;Calengoth;NPC
+-17.4;-63.8;Braiglinn;NPC
+-14.5;-73.0;Skirmish Captain;NPC
+-14.5;-73.0;Skirmish Trainer;NPC
+-14.6;-73.0;Skirmish Legendary Items;NPC
+-14.5;-73.0;Skirmish Curiosities;NPC
+-14.5;-73.0;Skirmish Crafting;NPC
+-14.5;-72.9;Skirmish Heavy Armour;NPC
+-14.6;-73.0;Skirmish Provisions;NPC
+-14.6;-73.0;Skirmish Cosmetics;NPC
+-14.6;-73.0;Skirmish Weapons;NPC
+-14.6;-73.0;Skirmish Medium Armour;NPC
+-14.6;-73.0;Skirmish Jewellery And Cloaks;NPC
+-14.6;-73.0;Skirmish Light Armour;NPC
+-14.5;-73.0;Skirmish Camp;POI

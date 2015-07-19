@@ -1,0 +1,410 @@
+-19.3;-44.0;Bleakmere;POI
+-18.6;-43.9;Sad Doldur;POI
+-16.1;-44.4;Helethir;POI
+-15.2;-45.4;Pel Umarth;POI
+-14.6;-44.5;Fennas Guldur;POI
+-15.7;-47.1;Lagfaur-hah;POI
+-12.8;-46.4;Thangulhad;POI
+-15.0;-48.6;Minas Gil;POI
+-17.6;-48.2;Mithechad;POI
+-16.1;-51.3;The Verdant Shrine;POI
+-17.3;-50.5;Krul Lugu;POI
+-15.2;-51.2;The Wild Ruin;POI
+-12.6;-50.0;Pool Of Tranquility;POI
+-11.8;-49.6;The Dead Grove;POI
+-12.1;-52.3;The Low Pond;POI
+-8.8;-51.2;Gorogrod;POI
+-13.6;-55.2;Audaghaim;POI
+-13.5;-56.1;The Haunted Inn;POI
+-15.4;-56.0;Pack-howler's Hill;POI
+-16.9;-54.7;Estolad Mernall;POI
+-12.4;-57.6;Gorotham;POI
+-13.5;-58.1;Echad Mothelen;POI
+-14.9;-57.7;The Dreadweaver's Lair;POI
+-16.8;-57.8;Pool Of Creeping Death;POI
+-18.8;-57.6;Sad Meryrn;POI
+-12.8;-58.7;Burgul-stazg;POI
+-14.5;-59.2;Gostannon;POI
+-16.0;-59.2;The Wind Stones;POI
+-16.0;-60.0;Amon Angened;POI
+-16.5;-60.3;Echad Glamodud;POI
+-15.2;-61.5;Echad Sirion;POI
+-14.3;-61.6;Durburz-stazg;POI
+-16.7;-61.8;Fallug;POI
+-18.3;-60.9;Ashurz Maufulug;POI
+-17.4;-60.1;Maudhul-ulur;POI
+-13.6;-58.1;Mustering Horn;Item
+-15.1;-61.5;Campfire;Item
+-15.8;-60.1;Campfire;Item
+-16.8;-54.8;Campfire;Item
+-12.4;-50.9;Campfire;Item
+-16.1;-44.4;Campfire;Item
+-17.5;-48.2;Campfire;Item
+-13.6;-58.1;Camp site fire;Item
+-12.6;-46.5;Camp site fire;Item
+-16.2;-44.5;Camp site fire;Item
+-15.8;-60.1;Relic-master;Item-master
+-13.3;-56.0;Relic-master;Item-master
+-16.7;-54.7;Relic-master;Item-master
+-12.7;-46.5;Relic-master;Item-master
+-15.8;-60.1;Forge-master;Item-master
+-13.3;-56.0;Forge-master;Item-master
+-16.7;-54.7;Forge-master;Item-master
+-12.7;-46.5;Forge-master;Item-master
+-15.3;-61.5;Mailbox;Item
+-13.3;-56.0;Mailbox;Item
+-16.8;-54.9;Mailbox;Item
+-14.2;-51.5;Mailbox;Item
+-14.5;-51.1;Mailbox;Item
+-12.9;-46.3;Mailbox;Item
+-17.6;-48.2;Mailbox;Item
+-15.3;-61.3;Milestone;Milestone
+-13.3;-56.0;Milestone;Milestone
+-17.0;-54.9;Milestone;Milestone
+-14.3;-51.2;Milestone;Milestone
+-17.6;-48.2;Milestone;Milestone
+-12.9;-46.3;Milestone;Milestone
+-14.2;-61.7;Ulkurzlam;Mob
+-14.2;-60.5;Desperate Soldier;NPC
+-14.2;-59.8;Exhausted Soldier;NPC
+-15.7;-60.0;Captured Soldier;NPC
+-16.0;-60.6;Wounded Soldier;NPC
+-14.2;-60.5;Desperate Soldier;NPC
+-15.0;-61.4;Wounded Soldier;NPC
+-15.1;-61.3;Wounded Soldier;NPC
+-16.6;-61.8;Blacktusk;Mob
+-16.7;-61.8;Agonglok;Mob
+-18.5;-61.0;Morsharpat;Mob
+-17.4;-60.1;Athruk;Mob
+-14.8;-57.6;Laehendiel;Mob
+-12.6;-59.0;Grishbugud;Mob
+-12.8;-59.0;Taluntum;Mob
+-15.1;-61.5;Londognir;NPC
+-15.0;-61.5;Luth;NPC
+-14.5;-59.3;Rock Pile;Item
+-14.8;-58.9;Gate Mechanism;Item
+-16.7;-61.8;Gate;Item
+-16.7;-61.8;Orc-leader's coffer;Item
+-16.9;-61.4;Western Bridge;Item
+-17.2;-61.1;Orc-trap;Item
+-17.3;-60.9;Orc-trap;Item
+-17.5;-61.1;Orc-trap;Item
+-17.8;-61.1;Orc-trap;Item
+-17.4;-60.5;Orc-trap;Item
+-17.2;-60.6;Orc-trap;Item
+-17.2;-60.4;Orc-trap;Item
+-17.2;-60.3;Orc-trap;Item
+-17.2;-60.1;Orc-trap;Item
+-17.0;-60.0;Eastern Bridge;Item
+-17.4;-60.0;Orc-leader's coffer;Item
+-14.7;-57.8;Enormous Cocoon;Item
+-12.6;-59.0;Idol of the Necromancer;Item
+-12.3;-57.7;Stolen Satchel;Item
+-12.3;-57.7;Carcharan;NPC
+-13.3;-56.0;Laeginn;NPC
+-13.3;-56.0;Otri;NPC
+-13.8;-54.9;Condemned Villager;NPC
+-17.7;-56.6;Rosar;NPC
+-18.1;-56.8;Stigur;NPC
+-16.0;-51.2;Erymbes;NPC
+-14.5;-45.6;Laeglang;NPC
+-14.7;-56.2;Gravestone;Item
+-13.5;-55.0;Gravestone;Item
+-15.4;-56.1;Wolf-whistle;Item
+-15.5;-55.8;Blackmaw;Mob
+-16.7;-57.7;Freshly Mauled Corpse;Item
+-17.3;-57.7;Water Sample;Item
+-17.4;-57.9;Water Sample;Item
+-17.5;-57.9;Water Sample;Item
+-17.6;-57.6;Water Sample;Item
+-17.3;-57.1;Water Sample;Item
+-17.7;-57.0;Water Sample;Item
+-17.6;-56.5;Water Sample;Item
+-18.3;-57.1;Water Sample;Item
+-18.4;-56.5;Water Sample;Item
+-18.0;-56.0;Water Sample;Item
+-17.8;-55.9;The Source Of Illness;Item
+-14.1;-55.4;Bloodstains;Item
+-14.0;-55.2;Loose Earth;Item
+-13.9;-54.9;Pile Of Weapons;Item
+-13.2;-54.8;Sign of the Necromancer's Influence;Item
+-12.4;-55.1;Elf Sword;Item
+-12.3;-54.7;Defiled Remains;Item
+-12.3;-54.5;Greedy Morroval-thief;Mob
+-11.5;-54.7;Defiled Remains;Item
+-11.5;-54.8;Summoning Horn;Item
+-11.6;-55.2;Defiled Remains;Item
+-14.3;-49.7;Upright Stone;Item
+-14.4;-49.5;Upright Stone;Item
+-14.6;-49.1;Upright Stone;Item
+-14.6;-45.1;Stone Of Challenge;Item
+-15.3;-61.6;Faroniel;NPC
+-15.3;-61.5;Fuirgam;NPC
+-15.1;-61.4;Tethafnel;NPC
+-15.1;-61.4;Agoria;NPC
+-15.1;-61.4;Ivorel;NPC
+-15.0;-61.5;Alfirimbes;NPC
+-15.1;-61.5;Falasgon;NPC
+-15.9;-60.0;Rongal;NPC
+-15.9;-60.0;Dannaswen;NPC
+-16.1;-59.9;Gaerfalas;NPC
+-16.1;-59.9;Thindiel;NPC
+-16.5;-60.3;Goldinwen;NPC
+-16.5;-60.3;Nordan;NPC
+-16.5;-60.3;Glamodud;NPC
+-13.6;-58.1;Dagorchiel;NPC
+-13.6;-58.1;Mothelen;NPC
+-13.6;-58.1;Lavanferon;NPC
+-13.7;-56.1;Dundurion;NPC
+-13.3;-56.0;Mirdirniel;NPC
+-13.3;-56.0;Puiguil;NPC
+-13.3;-56.0;Idhrenfair;NPC
+-13.3;-56.0;Athradnir;NPC
+-13.3;-56.0;Prestadir;NPC
+-13.3;-56.0;Cucheron;NPC
+-13.3;-56.0;Fernachar;NPC
+-18.3;-57.4;Nifdir;NPC
+-16.7;-54.9;Rocheledh;NPC
+-16.7;-54.9;Nestawen;NPC
+-16.9;-54.7;Nenedhel;NPC
+-16.7;-54.6;Laidhriel;NPC
+-14.3;-51.5;Enedhel;NPC
+-14.5;-51.3;Agorin;NPC
+-14.6;-51.4;Gruingalas;NPC
+-14.5;-51.3;Fuirgam;NPC
+-14.5;-51.3;Lomdognir;NPC
+-14.6;-51.4;Bori;NPC
+-14.6;-51.4;Issuriel;NPC
+-14.6;-51.4;Achardor;NPC
+-16.6;-50.6;Iavassul;NPC
+-18.0;-50.0;Malendol;NPC
+-11.5;-49.3;Gladiel;NPC
+-14.3;-45.9;Sulthel;NPC
+-14.5;-51.3;Mirkwood Reflection Pool;Item
+-15.1;-61.5;Malledhrim Reputation Vendor;NPC
+-13.3;-56.0;Malledhrim Reputation Vendor;NPC
+-14.4;-51.1;Malledhrim Reputation Vendor;NPC
+-12.6;-46.4;Malledhrim Reputation Vendor;NPC
+-17.6;-48.3;Malledhrim Reputation Vendor;NPC
+-15.3;-61.3;Stablemaster;Stablemaster
+-13.4;-56.2;Stablemaster;Stablemaster
+-16.8;-54.6;Stablemaster;Stablemaster
+-14.3;-51.2;Stablemaster;Stablemaster
+-17.6;-48.3;Stablemaster;Stablemaster
+-12.8;-46.1;Stablemaster;Stablemaster
+-16.1;-44.6;Stablemaster;Stablemaster
+-14.4;-51.1;Barter Exchange Vendor;NPC
+-14.5;-51.3;Burglar Trainer;Burglar Trainer
+-14.5;-50.9;Captain Trainer;Captain Trainer
+-14.5;-50.9;Champion Trainer;Champion Trainer
+-14.6;-50.9;Guardian Trainer;Guardian Trainer
+-14.5;-51.3;Hunter Trainer;Hunter Trainer
+-14.6;-51.1;Loremaster Trainer;Loremaster Trainer
+-14.6;-51.1;Ministrel Trainer;Ministrel Trainer
+-14.6;-51.1;Runekeeper Trainer;Runekeeper Trainer
+-14.6;-50.9;Warden Trainer;Warden Trainer
+-14.2;-51.5;Vault-Keeper;NPC
+-14.5;-51.1;Vault-Keeper;NPC
+-15.0;-61.5;Amrunwen;Supplier
+-14.5;-51.1;Supplier;Supplier
+-15.8;-60.1;Provisioner;Provisioner
+-13.3;-56.0;Provisioner;Provisioner
+-16.7;-54.9;Provisioner;Provisioner
+-14.5;-51.1;Provisioner;Provisioner
+-12.6;-46.4;Provisioner;Provisioner
+-16.1;-44.5;Provisioner;Provisioner
+-17.5;-48.2;Provisioner;Provisioner
+-15.8;-60.1;Healer;Healer
+-13.3;-56.0;Healer;Healer
+-16.8;-54.9;Healer;Healer
+-14.3;-50.9;Healer;Healer
+-12.6;-46.4;Healer;Healer
+-17.5;-48.2;Healer;Healer
+-16.1;-44.5;Healer;Healer
+-12.0;-45.6;Plans Of Battle;Item
+-11.1;-46.5;Plans Of Battle;Item
+-10.9;-46.3;Plans Of Battle;Item
+-12.0;-45.4;Plans Of Battle;Item
+-11.5;-44.9;Plans Of Battle;Item
+-11.4;-44.8;Plans Of Battle;Item
+-13.7;-46.3;Dark Idol;Item
+-13.7;-45.5;Dark Idol;Item
+-13.5;-44.8;Dark Idol;Item
+-14.8;-45.6;Dark Idol;Item
+-13.0;-45.0;Dark Idol;Item
+-11.5;-48.1;Shrine Of The Ancient One;Item
+-15.2;-52.9;Hrigg Vidukuni;POI
+-14.5;-51.0;Ost Galadh;POI
+-11.1;-51.4;The Crawling Water;POI
+-14.7;-51.5;Minas Celebolf;POI
+-14.3;-46.3;Sad Gulnir;POI
+-11.0;-46.4;Burzkala;POI
+-12.1;-45.5;Kufuzg;POI
+-12.6;-47.4;The Tree Of Suffering;POI
+-14.2;-50.8;Bard of Mirkwood;Bard
+-14.5;-51.1;Superior Forge;Item
+-14.5;-51.1;Superior Oven;Item
+-14.5;-51.1;Superior Study;Item
+-14.5;-51.1;Superior Workbench;Item
+-11.9;-48.2;Naergant (drops mithril flake);Mob
+-14.5;-51.1;Master Of Apprentices;Master of Apprentices
+-14.5;-51.1;Expert Cook;Expert Cook
+-14.5;-51.1;Expert Jeweller;Expert Jeweller
+-14.5;-51.1;Expert Metalsmith;Expert Metalsmith
+-14.5;-51.1;Expert Scholar;Expert Scholar
+-14.5;-51.1;Expert Tailor;Expert Tailor
+-14.5;-51.1;Expert Weaponcrafter;Expert Weaponcrafter
+-14.5;-51.1;Expert Woodworker;Expert Woodworker
+-14.5;-51.1;Expert Farmhand;Expert Farmhand
+-14.6;-51.4;Broin;NPC
+-12.4;-50.9;Miluimil;NPC
+-13.1;-46.4;Ningloril;NPC
+-12.6;-46.5;Vatnar;NPC
+-12.6;-46.5;Thyrnir;NPC
+-12.7;-46.6;Handelen;NPC
+-12.7;-46.6;Rodelleth;NPC
+-11.4;-45.6;Wounded Malledhrim;NPC
+-15.2;-51.2;Southern Ruins;POI
+-15.3;-50.5;South-east Ruins;POI
+-15.2;-52.0;South-west Ruins;POI
+-15.4;-51.0;Ancient Silvan Record;Item
+-15.2;-50.8;Ancient Silvan Record;Item
+-15.4;-50.5;Ancient Silvan Record;Item
+-15.4;-50.2;Ancient Silvan Record;Item
+-14.9;-50.4;Ancient Silvan Record;Item
+-15.0;-50.6;Ancient Silvan Record;Item
+-15.2;-50.8;Ancient Silvan Record;Item
+-15.2;-51.8;Ancient Silvan Record;Item
+-15.2;-52.0;Odd Footprints;Item
+-15.2;-52.9;Sharpfang;Mob
+-14.1;-53.0;First Milestone;Item
+-14.7;-54.7;Second Milestone;Item
+-14.6;-56.7;Third Milestone;Item
+-11.7;-49.5;Engraved Stone;Item
+-11.8;-49.6;Engraved Stone;Item
+-11.2;-49.0;Engraved Stone;Item
+-11.3;-48.8;Engraved Stone;Item
+-12.0;-48.1;Engraved Stone;Item
+-11.8;-49.5;Torn Backpack;Item
+-11.5;-48.6;Brungur;Mob
+-10.5;-50.7;Cocooned Elf;Item
+-11.4;-50.6;Cocooned Elf;Item
+-11.2;-51.5;Cocooned Elf;Item
+-11.5;-51.3;Cocooned Elf;Item
+-8.9;-51.1;Deluris;Mob
+-12.0;-48.1;Mordeloth;Mob
+-11.7;-47.9;Barrow Of Brungur;Item
+-11.6;-48.3;Thorun;Mob
+-11.4;-48.3;Sereglos Flower;Item
+-11.3;-48.3;Barrow Of Mordeloth;Item
+-11.4;-48.0;Barrow Of Thorun;Item
+-11.1;-50.7;Trapjaw;Mob
+-11.1;-50.5;Hal Tiller;Mob
+-14.6;-51.5;Barvessain;NPC
+-11.7;-45.4;Lawmen;Mob
+-11.1;-46.3;Uruk Commander;Mob
+-10.9;-46.3;Uruk Commander;Mob
+-11.9;-45.6;Uruk Commander;Mob
+-11.5;-45.0;Uruk Commander;Mob
+-10.9;-46.3;Fikthrug;Mob
+-10.3;-46.3;Teemurzgrat;Mob
+-11.4;-45.6;Athdurub;Mob
+-12.5;-46.5;Ellunen;NPC
+-11.5;-44.9;Hongoi;POI
+-19.8;-45.8;Anghum-maudhul;POI
+-19.9;-45.3;Anghum-maudhul;POI
+-19.1;-45.9;Gathlata;POI
+-17.6;-47.2;Anug-stazg;POI
+-19.1;-47.9;Naur-hoit;POI
+-12.7;-46.1;Goldagnir;NPC
+-16.1;-44.5;Balvaer;NPC
+-16.1;-44.4;Haukur;NPC
+-16.1;-44.4;Maerwen;NPC
+-16.0;-44.5;Laegalar;NPC
+-16.0;-44.5;Naerdolen;NPC
+-16.0;-44.5;Stirnir;NPC
+-16.0;-44.5;Torist;NPC
+-17.7;-48.3;Perindur;NPC
+-17.7;-48.3;Harchador;NPC
+-17.5;-48.2;Eirien;NPC
+-16.1;-44.6;Danfennas;NPC
+-17.7;-47.5;Western Campfire;POI
+-17.9;-47.0;Eastern Campfire;POI
+-18.2;-44.0;Secret Passage;POI
+-11.4;-47.2;Trinash;Mob
+-11.5;-44.9;Folkar;Mob
+-11.1;-46.6;Durflagit;Mob
+-14.1;-44.8;Cargul Sentry;Mob
+-12.1;-45.1;Cargul Sentry;Mob
+-11.9;-44.1;Cargul Sentry;Mob
+-19.2;-47.9;Morglok;Mob
+-17.5;-47.2;Fotak;Mob
+-18.7;-43.9;Lidognir;Mob
+-16.6;-46.7;Garmadh-Maudhul;POI
+-11.9;-54.8;Dannenglor;POI
+-12.6;-54.6;The Dark Gap;POI
+-17.2;-61.7;Tirnhirion;POI
+-19.1;-48.7;Sad Morangol;POI
+-14.3;-50.9;Minas Glorelloth;POI
+-16.1;-58.9;The Hall Of Lights;POI
+-11.7;-56.5;Agistath;POI
+-16.9;-54.7;Estolad Mernael;POI
+-12.5;-50.9;Ivorel's Camp;POI
+-16.4;-50.5;Iavassul's Watch;POI
+-17.4;-44.5;Barad Angol;POI
+-18.2;-44.0;Thurimen;POI
+-10.6;-45.7;Gath Ulunn;POI
+-11.2;-47.1;Lagurz Lug;POI
+-13.9;-42.2;Barad Guldur;POI
+-14.6;-41.6;Dungeons Of Dol Guldur;POI
+-14.6;-44.5;Fennas Guldur;POI
+-16.1;-44.4;Helethir;POI
+-13.5;-42.1;Sammath Gul;POI
+-14.8;-42.2;Sword-hall Of Dol Guldur;POI
+-14.8;-44.3;Warg-pens Of Dol Guldur;POI
+-14.2;-61.7;Skum;Mob
+-13.3;-54.3;Gulbrennil (mithril flake dropper);Mob
+-15.0;-61.8;Calengoth;NPC
+-15.0;-61.9;Boat To Lothlorien;Item
+-17.3;-61.3;Morsh (mithril flake dropper);Mob
+-17.3;-50.9;Orc War-banner;Item
+-11.9;-46.7;Orc-ballista;Item
+-17.4;-60.2;Barrle Of Warg-food;Item
+-15.0;-48.8;Corrupted Silvan Relic;Item
+-17.9;-50.3;Ianudirel;NPC
+-13.6;-51.2;Waypoint Marker;Item
+-13.7;-50.0;Waypoint Marker;Item
+-12.0;-47.3;Fire Oil Flask;Item
+-12.0;-47.4;Siege Stores;Item
+-17.3;-50.7;Banner Stones;Item
+-18.4;-50.6;Dreadful Pyre;Item
+-18.3;-50.3;Dreadful Pyre;Item
+-18.6;-49.9;Dreadful Pyre;Item
+-18.6;-49.5;Dreadful Pyre;Item
+-18.0;-49.5;Dreadful Pyre;Item
+-18.2;-49.7;Dreadful Pyre;Item
+-19.0;-57.4;Promising Bit Of Earth;Item
+-12.1;-46.7;Orc-catapult;Item
+-12.0;-47.3;Banner Stones;Item
+-11.8;-46.8;Banner Of Dol Guldur;Item
+-18.6;-48.7;Corrupted Altar;Item
+-19.0;-57.2;Wrathful Huorn;Mob
+-17.6;-56.1;Strange Plant;Item
+-17.6;-56.0;Strange Herb;Item
+-16.7;-58.2;Dry Branch;Item
+-16.5;-58.4;Dry Branch;Item
+-16.6;-58.5;Dry Branch;Item
+-16.6;-58.7;Dry Branch;Item
+-16.5;-58.7;Dry Branch;Item
+-16.7;-58.6;Dry Branch;Item
+-16.8;-58.4;Dry Branch;Item
+-16.2;-58.1;Dry Branch;Item
+-16.1;-58.1;Dry Branch;Item
+-16.1;-58.2;Dry Branch;Item
+-16.0;-58.3;Dry Branch;Item
+-16.2;-58.4;Dry Branch;Item
+-15.9;-58.1;Dry Branch;Item
+-10.2;-46.3;Lugdump;POI
+-19.1;-48.8;Accursed dagger;Item
+-19.4;-48.3;Accursed cup;Item
+-18.7;-48.7;Corrupted altar;Item

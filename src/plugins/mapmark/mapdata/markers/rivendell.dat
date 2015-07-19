@@ -1,0 +1,103 @@
+-30.9;-5.3;Anhebir;NPC
+-28.9;-5.6;Anornaneth;NPC
+-30.7;-6.2;Aragorn (inhouse);NPC
+-29.8;-3.4;Bailinn;Ministrel Trainer
+-29.2;-6.2;Berenin;Weapontrader
+-29.8;-3.4;Bilbo Baggins (inhouse);NPC
+-28.5;-6.2;Blacksmith;NPC
+-28.2;-5.6;Boromir (riddle quest part 3);NPC
+-29.8;-3.4;Cachunir;NPC
+-28.6;-6.2;Calbeniel;Notary
+-28.9;-5.9;Calenhen;Bowyer
+-29.9;-4.7;Celeblas;Champion Trainer
+-30.0;-4.6;Chicken Stone;Item
+-28.6;-6.2;Clerk of Kinships;NPC
+-29.8;-3.4;Gwingloth;Clerk of Kinships
+-29.2;-6.2;Daerlaw;Weapontrader
+-29.8;-3.4;Deluros (inhouse);NPC
+-29.4;-5.6;Display Table;Item
+-28.5;-6.2;Dringlinn;Novice Metalsmith
+-29.2;-6.2;Durvenel;Weapontrader
+-29.8;-3.4;Elmo Brown;Burglar Trainer
+-29.6;-3.4;Elrond;NPC
+-29.3;-6.7;Elrond's Stables;POI
+-29.7;-3.5;Elwen;Loremaster Trainer
+-29.9;-3.6;Faimir;NPC
+-29.8;-3.4;Forgamthan (Expert Scholar) (inhouse);Expert Scholar
+-28.5;-6.2;Forge-master;Item-master
+-29.7;-3.5;Frodo Baggins;NPC
+-28.9;-3.2;Galfar;Auctioneer
+-28.5;-6.2;Galuoneth;Novice Weaponcrafter
+-29.5;-3.4;Gandalf;NPC
+-29.8;-3.4;Gilfiniel (Supplier) (inhouse);NPC
+-30.7;-6.2;Gimli;NPC
+-29.4;-5.7;Glorenglir;NPC
+-30.1;-3.1;Glorfindel (riddle quest part 4a);NPC
+-26.8;-5.4;Golhador;NPC
+-29.9;-4.7;Gonediad;NPC
+-29.8;-3.4;Grafinn (Provisioner) (inhouse);NPC
+-28.6;-6.2;Grafinn;Provisioner
+-30.7;-6.2;Guesthouse;POI
+-29.3;-6.7;Harry Wheelwright;NPC
+-28.8;-4.2;Heath Wheaton;Captain Trainer
+-28.5;-6.2;Hemeldir;NPC
+-26.5;-5.4;Imdolen;POI
+-32.4;-2.2;Imlad Gelair;POI
+-29.6;-3.3;Imyl;NPC
+-29.3;-6.7;Ladrochan;Stablemaster
+-30.7;-6.2;Legolas;NPC
+-29.8;-3.4;Lindir (inhouse);NPC
+-29.6;-3.7;Maladmil (Vault-Keeper);NPC
+-28.6;-6.1;Mallasil;Novice Woodworker
+-29.9;-5.9;Mallenhadh;Hunter Trainer
+-26.8;-5.4;Malthenor;NPC
+-28.9;-5.7;Meriadoc Brandybuck;NPC
+-29.8;-4.8;Merilos;NPC
+-28.6;-6.1;Miluidan;Novice Tailor
+-28.1;-5.4;Mirdoron;Guardian Trainer
+-29.8;-3.4;Novice Cook (inhouse);NPC
+-29.2;-6.2;Orodlin;Weapontrader
+-29.8;-3.4;Oven (inhouse);POI
+-29.3;-6.7;Peregrin Took;NPC
+-28.6;-6.1;Raenfer;Supplier
+-29.3;-6.7;Riddle Quest Part 1 Gloves;Item
+-29.3;-6.8;Riddle Quest Part 2 - Broom;Item
+-29.8;-5.4;Ringhul;NPC
+-30.1;-4.4;Rivendell Milestone;Milestone
+-29.6;-3.4;Runekeeper Trainer;Runekeeper Trainer
+-29.8;-3.4;Salabdur (Healer) (inhouse);NPC
+-29.6;-3.1;Samwise Gamgee;NPC
+-28.3;-6.1;Sceptre of Annuminas;Item
+-29.2;-6.7;Sergeant-at-Arms Glorellin;NPC
+-28.9;-5.9;Sidlinn;Bowyer
+-28.9;-3.2;Skavarr;Auctioneer
+-30.3;-4.5;The Bridge of Rivendell;POI
+-30.2;-3.8;The Falls of Imladris;POI
+-28.5;-6.2;The Forges of Rivendell;POI
+-32.2;-6.2;The Gates of Imladris;POI
+-28.9;-3.7;The Haven of Orladion;POI
+-29.6;-3.3;The Last Homely House;POI
+-29.1;-5.8;The Market of Rivendell;POI
+-29.9;-4.8;The Spire of Meeting;POI
+-29.9;-4.7;Warden Trainer;Warden Trainer
+-29.8;-3.4;Ymil;NPC
+-30.0;-6.3;Skirmish Captain;NPC
+-30.1;-6.3;Skirmish Trainer;NPC
+-30.1;-6.3;Skirmish Legendary Items;NPC
+-30.1;-6.2;Skirmish Curiosities;NPC
+-30.1;-6.2;Skirmish Crafting;NPC
+-30.1;-6.3;Skirmish Heavy Armour;NPC
+-30.0;-6.3;Skirmish Provisions;NPC
+-30.1;-6.3;Skirmish Cosmetics;NPC
+-30.1;-6.3;Skirmish Weapons;NPC
+-30.1;-6.4;Skirmish Medium Armour;NPC
+-30.2;-6.3;Skirmish Jewellery And Cloaks;NPC
+-30.1;-6.2;Skirmish Light Armour;NPC
+-30.1;-6.3;Skirmish Camp;POI
+-29.9;-3.5;Pethelen;NPC
+-29.3;-6.8;Halbarad;NPC
+-29.1;-6.7;Golodir;NPC
+-29.0;-6.7;Elrohir;NPC
+-29.1;-6.4;Radanir;NPC
+-29.3;-6.7;Lothrandir;NPC
+-29.0;-6.5;Candaith;NPC

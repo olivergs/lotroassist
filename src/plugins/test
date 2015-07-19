@@ -1,0 +1,3 @@
+from mapmark import Plugin
+plugin=Plugin(['plugins/mapmark/mapmark.ui'])
+plugin.run()

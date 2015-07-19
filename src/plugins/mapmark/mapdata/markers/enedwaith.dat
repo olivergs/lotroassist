@@ -1,0 +1,376 @@
+-58.5;-14.5;Echad Dagoras Stable-master;Stablemaster
+-62.9;-23.2;Maur Tulhau Stable-master;Stablemaster
+-66.6;-21.5;Echad Daervunn Stable-master;Stablemaster
+-66.9;-16.9;Lnanuch Stable-master;Stablemaster
+-69.4;-13.7;Harndirion Stable-master;Stablemaster
+-58.5;-14.6;Milestone Echad Dagoras;Milestone
+-66.5;-17.2;Milestone Lnanuch;Milestone
+-66.6;-21.5;Milestone Echad Daervunn;Milestone
+-62.3;-23.1;Milestone Maur Tulhau;Milestone
+-65.7;-8.6;Milestone Nar's Peak;Milestone
+-69.3;-13.7;Milestone Harndirion;Milestone
+-72.7;-14.8;Milestone Lich Bluffs;Milestone
+-58.6;-14.5;Echad Dagoras Healer;Healer
+-62.3;-23.0;Maur Tulhau Healer;Healer
+-66.5;-17.2;Lnanuch Healer;Healer
+-72.8;-14.7;Lich Bluffs Healer;Healer
+-58.6;-14.6;Echad Dagoras Provisioner;Provisioner
+-62.3;-23.0;Maur Tulhau Provisioner;Provisioner
+-66.5;-17.2;Lnanuch Provisioner;Provisioner
+-72.8;-14.7;Lich Bluffs Provisioner;Provisioner
+-58.6;-14.6;Echad Dagoras Relic-master;Item-master
+-62.3;-23.0;Maur Tulhau Relic-master;Item-master
+-69.4;-13.8;Harndirion Relic-master;Item-master
+-58.6;-14.6;Echad Dagoras Forge-master;Item-master
+-62.3;-23.0;Maur Tulhau Forge-master;Item-master
+-69.3;-13.8;Harndirion Forge-master;Item-master
+-58.6;-14.7;Mailbox Echad Dagoras;Item
+-62.3;-23.0;Mailbox Maur Tulhau;Item
+-66.6;-21.5;Mailbox Echad Daervunn;Item
+-66.5;-17.2;Mailbox Lnanuch;Item
+-66.5;-17.3;Mailbox Lnanuch;Item
+-69.4;-13.8;Mailbox Harndirion;Item
+-63.5;-21.5;Camp Site Fire;Item
+-66.6;-21.5;Camp Site Fire;Item
+-65.7;-8.6;Camp Site Fire;Item
+-69.4;-13.8;Camp Site Fire;Item
+-72.8;-14.8;Camp Site Fire;Item
+-66.5;-17.2;Vault-Keeper;NPC
+-66.5;-17.2;Supplier Lnanuch;Supplier
+-66.5;-17.2;Expert Cook;Expert Cook
+-66.5;-17.2;Expert Jeweller;Expert Jeweller
+-66.5;-17.2;Expert Metalsmith;Expert Metalsmith
+-66.5;-17.2;Expert Scholar;Expert Scholar
+-66.5;-17.2;Expert Tailor;Expert Tailor
+-66.5;-17.2;Expert Weaponcrafter;Expert Weaponcrafter
+-66.5;-17.2;Expert Woodworker;Expert Woodworker
+-66.5;-17.2;Superior Forge;Item
+-66.5;-17.2;Superior Oven;Item
+-66.5;-17.2;Superior Study;Item
+-66.5;-17.2;Superior Workbench;Item
+-69.4;-13.8;Bard of Enedwaith;Bard
+-69.6;-13.8;Skirmish Captain;NPC
+-69.6;-13.8;Skirmish Trainer;NPC
+-69.4;-13.8;Skirmish Legendary Items;NPC
+-69.6;-13.5;Skirmish Classic;NPC
+-69.8;-13.8;Skirmish Crafting;NPC
+-69.6;-13.6;Skirmish Heavy Armour;NPC
+-69.7;-13.7;Skirmish Provisions;NPC
+-69.6;-13.6;Skirmish Cosmetics;NPC
+-69.6;-13.6;Skirmish Weapons;NPC
+-69.6;-13.5;Skirmish Medium Armour;NPC
+-69.6;-13.7;Skirmish Jewellery And Cloaks;NPC
+-69.7;-13.8;Skirmish Light Armour;NPC
+-69.8;-13.7;Skirmish Exchange;NPC
+-69.6;-13.8;Skirmish Camp;POI
+-69.4;-13.9;Burglar Trainer;Burglar Trainer
+-69.4;-13.8;Captain Trainer;Captain Trainer
+-69.4;-13.9;Champion Trainer;Champion Trainer
+-69.4;-13.9;Guardian Trainer;Guardian Trainer
+-69.4;-13.8;Hunter Trainer;Hunter Trainer
+-69.4;-13.8;Loremaster Trainer;Loremaster Trainer
+-69.4;-13.8;Ministrel Trainer;Ministrel Trainer
+-69.4;-13.8;Runekeeper Trainer;Runekeeper Trainer
+-69.4;-13.9;Warden Trainer;Warden Trainer
+-65.7;-8.6;Mustering Horn;Item
+-72.7;-14.7;Mustering Horn;Item
+-58.6;-14.5;Grey Company Reputation Trader;NPC
+-69.4;-13.8;Grey Company Reputation Trader;NPC
+-58.6;-14.5;Legendary Trader;NPC
+-66.5;-17.2;Legendary Trader;NPC
+-66.5;-17.2;Algraig Reputation Trader;NPC
+-58.7;-14.6;Braiglar;NPC
+-58.7;-14.6;Lothrandir;NPC
+-58.6;-14.5;Wadu (initial epic story);NPC
+-60.6;-13.4;Amarion;NPC
+-58.7;-14.6;Amarion (after rescue);NPC
+-58.7;-14.6;Dagoras (after rescue);NPC
+-59.0;-12.4;Avanen;NPC
+-63.8;-17.5;Saeradan;NPC
+-63.8;-17.5;Andreg;NPC
+-63.8;-17.5;Amlan;NPC
+-62.2;-23.1;Rhosun Turio;NPC
+-62.1;-23.0;Caradoc Henbuch;NPC
+-62.0;-22.9;Iolo Brochtu;NPC
+-62.5;-23.1;Iago Glennudh;NPC
+-62.5;-23.4;Violed Isbrun;NPC
+-63.1;-23.0;Rhus Cornchuthur;NPC
+-64.8;-22.9;Gwin Curhonon;NPC
+-64.3;-22.3;Gwin Curhonon (after rescue);NPC
+-69.4;-13.8;Culang;NPC
+-65.1;-16.4;Alun;NPC
+-65.1;-16.4;Davudh;NPC
+-65.1;-16.4;Wunne;NPC
+-61.8;-14.1;Grufudh;NPC
+-61.8;-14.1;Rhiain;NPC
+-61.8;-14.1;Iuan;NPC
+-66.6;-21.5;Daervunn;NPC
+-67.4;-20.3;Umfre;NPC
+-66.6;-21.5;Umfre (after rescue);NPC
+-67.6;-21.9;Enit;NPC
+-67.1;-22.8;The River-Woman;NPC
+-72.3;-22.7;The River-Woman;NPC
+-69.2;-22.3;Tum;NPC
+-72.8;-23.9;Lavaneth;NPC
+-72.8;-24.0;Gwenaewen;NPC
+-72.7;-24.0;Munfaeril;NPC
+-72.8;-24.3;Arassiel;NPC
+-72.8;-24.3;The Huntsman;NPC
+-66.9;-17.0;Suvulch;NPC
+-66.5;-17.1;Nona (initial epic story);NPC
+-67.2;-17.5;Stalwart Dunlending;NPC
+-67.9;-17.0;Hamon;NPC
+-67.4;-13.9;Gronu;NPC
+-70.6;-15.5;Mincham;NPC
+-71.6;-17.0;Mournful Shade;NPC
+-71.4;-17.0;Mournful Shade;NPC
+-71.4;-16.8;Mournful Shade;NPC
+-71.7;-16.8;Mournful Shade;NPC
+-71.5;-16.4;Sorrowful Shade;NPC
+-71.4;-16.4;Sorrowful Shade;NPC
+-72.1;-16.8;Sorrowful Shade;NPC
+-72.0;-16.8;Sorrowful Shade;NPC
+-72.1;-16.1;Lhudd;NPC
+-63.3;-23.9;Kened Baltrod;NPC
+-63.4;-24.0;Aled Madcorf;NPC
+-56.6;-13.3;Tol Einyr;POI
+-60.7;-13.3;The Black Dens;POI
+-60.8;-13.1;Source Of The Shadow-wolves Power;POI
+-59.2;-16.0;Lhe Lhechu;POI
+-58.8;-16.0;Dagoras Cave Entrance;POI
+-59.0;-12.3;Cartrev Duved;POI
+-63.1;-18.0;Amon Min;POI
+-63.8;-17.5;Echad Saeradan;POI
+-61.2;-19.3;The King's Way Gate;POI
+-65.5;-16.8;Araniant;POI
+-63.5;-21.5;Echad Idhrenfair;POI
+-62.5;-23.2;Maur Tulhau;POI
+-64.9;-22.8;Khoblun Utot;POI
+-64.2;-23.3;Grey King Entrance;POI
+-62.9;-20.9;First Patrol Point;POI
+-62.4;-21.7;Second Patrol Point;POI
+-63.5;-22.7;Third Patrol Point;POI
+-64.0;-22.6;Fourth Patrol Point;POI
+-64.3;-20.2;Fifth Patrol Point;POI
+-61.6;-15.2;Pluvun Gwern;POI
+-61.6;-15.0;Pluvun Gwern;POI
+-69.7;-13.7;Harndirion;POI
+-65.1;-16.4;Uch Cadlus;POI
+-62.9;-14.2;Gwillion's Gate;POI
+-61.8;-14.1;Gavar Cadlus;POI
+-63.5;-13.8;Gwillion's Hut;POI
+-66.6;-21.5;Echad Daervunn;POI
+-67.6;-21.9;Galar Culch;POI
+-69.1;-22.4;Gwaed Brun;POI
+-72.5;-22.2;Oirnad Culch;POI
+-73.5;-22.2;Duvispont;POI
+-72.8;-24.0;Hall Of The Huntsman;POI
+-68.0;-17.0;Cartrev Hamon;POI
+-69.4;-17.9;Cartrev Rurith;POI
+-69.7;-15.3;Cartrev Matho;POI
+-67.9;-14.6;Cartrev Emlun;POI
+-66.8;-12.2;Southern Entrance Of Gwal Draig;POI
+-66.8;-11.8;Eastern Entrance Of Gwal Draig;POI
+-66.6;-12.4;Western Entrance Of Gwal Draig;POI
+-66.5;-12.0;Gwal Draig;POI
+-68.3;-12.2;Sarf Cadlus;POI
+-69.3;-12.0;Pruv Cadlus;POI
+-69.4;-9.6;Mafan-mudun;POI
+-67.6;-9.2;The Serpent-halls;POI
+-65.6;-8.5;Nar's Peak;POI
+-65.6;-8.5;Zudrugund Entrance;POI
+-71.2;-12.9;Munudh Duv;POI
+-66.3;-10.8;Skud Carchar Entrance (cavern);POI
+-66.6;-15.9;Colven-unus;POI
+-65.7;-18.3;Pool Of The King;POI
+-71.9;-15.5;Fordh Maru;POI
+-73.5;-16.6;Trac-plas;POI
+-74.5;-15.8;The Old Way;POI
+-71.5;-16.9;Cartrev Maru;POI
+-71.0;-19.7;Unig-pulh;POI
+-71.7;-15.9;Crug Cadelhin Entrance;POI
+-72.1;-16.1;Hall Of Sanctuary;POI
+-74.4;-15.3;Drug-haniad;POI
+-74.3;-15.3;Lhe Colvarn;POI
+-58.4;-11.2;Min Haerchen;POI
+-63.2;-24.0;The Fishing Hole;POI
+-60.8;-13.2;Fang Of Shadows;Mob
+-58.9;-16.5;Commander Lhew;Mob
+-63.9;-22.5;Gavar-Diavol;Mob
+-64.4;-22.7;Tulwulh-gwirod;Mob
+-64.1;-15.9;Black Sow;Mob
+-63.5;-20.7;Great Tusk;Mob, mithril flake signature boar
+-63.5;-23.3;Great Tusk;Mob, mithril flake signature boar
+-72.5;-22.2;Maddened Elhudan;Mob
+-73.2;-21.6;Faegol;Mob, mithril flake signature spirit
+-66.5;-12.0;Heilun-Brenin;Mob
+-69.8;-10.7;Tuisog;Mob, Elite Master giant
+-69.1;-8.6;Gogulch;Mob, Elite Master giant
+-68.7;-8.8;Brathach;Mob, Elite Master giant
+-69.1;-9.0;Glewlud;Mob, Elite Master giant
+-69.7;-15.3;Buzog;Mob
+-74.6;-14.3;Ufern-Helgi;Mob, mithril flake signature barghest
+-71.5;-16.9;Ufern-Helgi;Mob, mithril flake signature barghest
+-60.1;-15.8;Burgul;Mob, mithril flake signature shadow-wolf
+-56.7;-15.5;Fallen Uch-luth;Item
+-56.5;-15.1;Fallen Uch-luth;Item
+-56.5;-14.4;Fallen Uch-luth;Item
+-56.8;-14.4;Fallen Uch-luth;Item
+-56.6;-15.2;Wayfarer's Rune (first);Item
+-58.5;-12.2;Wayfarer's Rune (nothern);Item
+-60.9;-14.9;Wayfarer's Rune (southern);Item
+-70.6;-16.5;Wayfarer's Rune (healing draughts);Item
+-66.6;-15.9;Wayfarer's Rune (bandages);Item
+-65.6;-18.0;Wayfarer's Rune (arrows);Item
+-56.5;-15.4;Buried Cache (first);Item
+-57.8;-12.0;Buried Cache (nothern);Item
+-61.1;-14.3;Buried Cache (southern);Item
+-70.7;-16.9;Buried Cache (healing draughts);Item
+-66.5;-16.6;Buried Cache (bandages);Item
+-66.3;-18.0;Buried Cache (arrows);Item
+-61.3;-19.2;Small Boots;Item, Little Wonders deed start item
+-63.7;-23.0;Small Bow;Item, Little Wonders deed start item
+-63.4;-22.6;Small Skeleton;Item, Little Wonders deed start item
+-63.4;-22.6;Crushed Rock;Item
+-64.6;-20.4;Small Tool;Item, Little Wonders deed start item
+-64.3;-22.2;Small Arrow;Item, Little Wonders deed start item
+-63.3;-22.2;Small Bucket;Item, Little Wonders deed start item
+-61.3;-19.3;Banded Stronbox (blockade);Item
+-62.3;-18.1;Corpse Of Wadu;Item
+-62.4;-21.7;Sigil Of The Rhi Helvarch;Item, start quest item
+-64.0;-22.6;White Stag Corpse;Item, start quest item
+-63.2;-22.9;Hobbit lamp post;Item
+-66.5;-21.2;Hobbit lamp post;Item
+-70.8;-19.4;Hobbit lamp post;Item
+-63.7;-23.2;Boar-droppings;Item
+-64.0;-23.1;Boar-droppings;Item
+-64.1;-22.9;Boar-droppings;Item
+-63.8;-22.5;Boar-droppings;Item
+-63.6;-22.8;Boar-droppings;Item
+-63.4;-22.6;Boar-droppings;Item
+-63.6;-22.5;Boar-droppings;Item
+-63.7;-22.6;Boar-droppings;Item
+-63.9;-21.5;Boar-droppings;Item
+-64.3;-21.4;Boar-droppings;Item
+-63.6;-22.8;Marigold;Item
+-63.6;-22.7;Marigold;Item
+-63.4;-22.6;Marigold;Item
+-63.3;-22.7;Marigold;Item
+-63.1;-22.7;Marigold;Item
+-63.7;-21.9;Marigold;Item
+-63.5;-22.0;Marigold;Item
+-63.9;-21.5;Marigold;Item
+-64.2;-21.3;Marigold;Item
+-64.5;-21.3;Marigold;Item
+-62.4;-23.3;Prepared Earth (garden for planting marigolds);Item
+-62.9;-20.9;Shrine Of The Uch;Item, start quest item
+-62.5;-17.0;Dun-bee Hive;Item
+-62.3;-16.1;Dun-bee Hive;Item
+-63.8;-16.2;Dun-bee Hive;Item
+-62.3;-16.3;Mistletoe;Item
+-62.1;-16.2;Mistletoe;Item
+-62.3;-16.0;Mistletoe;Item
+-61.6;-15.3;Craban-nest;Item
+-61.7;-15.1;Craban-nest;Item
+-61.7;-15.0;Craban-nest;Item
+-61.6;-15.1;Craban-nest;Item
+-61.6;-14.9;Craban-nest;Item
+-61.8;-14.9;Craban-nest;Item
+-63.3;-16.6;Goat's Rue;Item
+-63.2;-16.5;Goat's Rue;Item
+-63.1;-16.5;Goat's Rue;Item
+-64.4;-16.2;Sweet Myrtle;Item
+-64.6;-16.1;Sweet Myrtle;Item
+-64.6;-16.0;Sweet Myrtle;Item
+-63.6;-18.5;Klamath Weed;Item
+-63.4;-18.3;Klamath Weed;Item
+-63.5;-18.5;Klamath Weed;Item
+-64.9;-16.2;Slaughtered Oxe;Item
+-64.9;-16.0;Slaughtered Oxe;Item
+-64.9;-15.8;Slaughtered Oxe;Item
+-62.9;-14.2;Banner Of The White Hand;Item, start quest item
+-66.9;-21.7;Wild Berries;Item
+-67.1;-21.9;Wild Berries;Item
+-67.4;-21.9;Wild Berries;Item
+-67.2;-21.6;Wild Berries;Item
+-67.1;-21.3;Wild Berries;Item
+-67.1;-20.9;Wild Berries;Item
+-67.3;-20.8;Wild Berries;Item
+-67.4;-20.6;Wild Berries;Item
+-67.5;-22.6;Wild Berries;Item
+-67.2;-22.7;Wild Berries;Item
+-67.2;-22.4;Wild Berries;Item
+-67.0;-22.1;Wild Berries;Item
+-67.1;-22.8;The Crone's Ferry;Item
+-72.3;-22.7;The Crone's Ferry;Item
+-69.2;-22.4;Stone Table;Item
+-67.1;-23.1;Club Moss;Item
+-67.0;-23.0;Club Moss;Item
+-67.1;-23.4;Club Moss;Item
+-67.2;-23.5;Club Moss;Item
+-67.0;-24.7;Oak-branch;Item
+-67.3;-25.0;Oak-branch;Item
+-67.4;-24.9;Oak-branch;Item
+-67.8;-24.9;Oak-branch;Item
+-67.8;-24.8;Oak-branch;Item
+-68.1;-24.8;Oak-branch;Item
+-66.7;-23.8;Mistletoe;Item
+-66.5;-23.6;Mistletoe;Item
+-66.4;-23.5;Mistletoe;Item
+-66.3;-23.7;Mistletoe;Item
+-66.2;-23.8;Mistletoe;Item
+-66.7;-23.6;Mistletoe;Item
+-66.7;-23.4;Mistletoe;Item
+-66.6;-23.2;Mistletoe;Item
+-68.0;-25.0;Mystic Pool (Lavaneth's Spirit);Item
+-68.8;-20.7;Mystic Pool (Munfaeril's Spirit);Item
+-71.2;-21.0;Mystic Pool (Arassiel's Spirit);Item
+-69.4;-23.0;Mystic Pool (Gwenaewen's Spirit);Item
+-69.3;-12.0;Tribute Pile;Item, start quest item
+-65.6;-8.5;Dwarf-Marker;Item
+-65.6;-18.2;Dwarf-Marker;Item
+-65.2;-16.7;Dwarf-Marker;Item
+-71.8;-15.6;Dwarf-Marker;Item
+-57.4;-14.4;Dwarf-Marker;Item
+-67.3;-9.3;Gwiber-eggs;Item
+-67.4;-9.2;Gwiber-eggs;Item
+-67.7;-9.3;Gwiber-eggs;Item
+-70.9;-13.0;Nijam-mujdu;Item
+-71.4;-13.1;Nijam-mujdu;Item
+-71.4;-13.0;Nijam-mujdu;Item
+-71.2;-13.0;Nijam-mujdu;Item
+-71.1;-12.9;Nijam-mujdu;Item
+-71.1;-12.6;Nijam-mujdu;Item
+-67.1;-14.0;Dunlending Cart (Gronu's cart);Item
+-72.5;-15.9;Urdhas Culch (cairn stone);Item
+-72.5;-15.8;Urdhas Culch (cairn stone);Item
+-72.6;-15.8;Urdhas Culch (cairn stone);Item
+-73.1;-16.5;Corrupted Cairn Stone;Item
+-73.0;-16.5;Corrupted Cairn Stone;Item
+-73.1;-16.8;Corrupted Cairn Stone;Item
+-73.2;-16.8;Corrupted Cairn Stone;Item
+-73.5;-16.5;Corrupted Cairn Stone;Item
+-72.9;-16.7;Corrupted Cairn Stone;Item
+-73.5;-16.5;Puddle Of Vile Liquid;Item, start quest item
+-73.4;-16.7;Puddle Of Vile Liquid;Item, start quest item
+-74.2;-14.2;First Skeleton Pile;Item
+-74.6;-14.3;Second Skeleton Pile;Item
+-74.7;-14.7;Third Skeleton Pile;Item
+-71.4;-16.4;Bedh-stones (first inscription);Item
+-72.7;-16.0;Bedh-stones (second inscription);Item
+-73.0;-16.0;Bedh-stones (third inscription);Item
+-71.2;-11.4;Cloben;Mob, rare nemesis dragon
+-69.3;-10.8;The High Home;POI
+-64.7;-23.3;The Grey King;Mob
+-68.2;-8.5;Tantafod's Clutch;Item
+-67.9;-8.9;Harcennun's Clutch;Item
+-69.4;-9.3;Ancient pillar;Item
+-69.3;-8.9;Ancient pillar;Item
+-69.0;-8.6;Ancient pillar;Item
+-69.4;-9.3;Ancient pillar;Item
+-69.3;-9.5;Tribute-pile;Item
+-69.3;-9.8;Tribute-pile;Item
+-69.1;-9.3;Tribute-pile;Item
+-68.9;-9.2;Tribute-pile;Item
+-69.7;-9.6;Gunnberg's tribute-pile;Item
+-67.2;-12.2;Draig-luth Messenger (drops start quest item);Mob,roaming around between dunlend camps

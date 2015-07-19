@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <requires lib="gtk+" version="2.16"/>
+  <requires lib="evogtkwidgets" version="2.16"/>
+  <!-- interface-naming-policy project-wide -->
+  <object class="GtkWindow" id="winMain">
+    <property name="width_request">850</property>
+    <property name="height_request">550</property>
+    <property name="visible">True</property>
+    <property name="title" translatable="yes">LOTROAssist</property>
+    <property name="window_position">center</property>
+    <property name="default_width">640</property>
+    <property name="default_height">480</property>
+    <property name="icon">pixmaps/lotroassist.png</property>
+    <signal name="delete_event" handler="quitApplication"/>
+    <child>
+      <object class="GtkVBox" id="vbxMain">
+        <property name="visible">True</property>
+        <child>
+          <object class="GtkMenuBar" id="mnuMain">
+            <property name="visible">True</property>
+            <child>
+              <object class="GtkMenuItem" id="mnuFile">
+                <property name="visible">True</property>
+                <property name="label" translatable="yes">_Archivo</property>
+                <property name="use_underline">True</property>
+                <child type="submenu">
+                  <object class="GtkMenu" id="mnubFile">
+                    <property name="visible">True</property>
+                    <child>
+                      <object class="GtkImageMenuItem" id="mnuFileOpen">
+                        <property name="label">gtk-open</property>
+                        <property name="visible">True</property>
+                        <property name="use_underline">True</property>
+                        <property name="use_stock">True</property>
+                        <property name="always_show_image">True</property>
+                        <signal name="activate" handler="openLogFile"/>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkSeparatorMenuItem" id="mnuSepMain1">
+                        <property name="visible">True</property>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkImageMenuItem" id="mnuFileQuit">
+                        <property name="label">gtk-quit</property>
+                        <property name="visible">True</property>
+                        <property name="use_underline">True</property>
+                        <property name="use_stock">True</property>
+                        <property name="always_show_image">True</property>
+                        <signal name="activate" handler="quitApplication"/>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <child>
+              <object class="GtkMenuItem" id="mnuEdit">
+                <property name="visible">True</property>
+                <property name="label" translatable="yes">_Editar</property>
+                <property name="use_underline">True</property>
+                <child type="submenu">
+                  <object class="GtkMenu" id="mnubEdit">
+                    <property name="visible">True</property>
+                    <child>
+                      <object class="GtkImageMenuItem" id="mnuEditPreferences">
+                        <property name="visible">True</property>
+                        <property name="related_action">actPreferences</property>
+                        <property name="use_action_appearance">True</property>
+                        <property name="use_underline">True</property>
+                        <property name="use_stock">True</property>
+                        <property name="always_show_image">True</property>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <child>
+              <object class="GtkMenuItem" id="mnuView">
+                <property name="visible">True</property>
+                <property name="label" translatable="yes">_Ver</property>
+                <property name="use_underline">True</property>
+                <child type="submenu">
+                  <object class="GtkMenu" id="mnubView">
+                    <property name="visible">True</property>
+                    <child>
+                      <object class="GtkCheckMenuItem" id="mnuViewConsole">
+                        <property name="visible">True</property>
+                        <property name="related_action">tactShowConsole</property>
+                        <property name="use_action_appearance">True</property>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkCheckMenuItem" id="mnuViewInfoBar">
+                        <property name="visible">True</property>
+                        <property name="related_action">tactShowInfoBar</property>
+                        <property name="use_action_appearance">True</property>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <child>
+              <object class="GtkMenuItem" id="mnuTools">
+                <property name="visible">True</property>
+                <property name="label" translatable="yes">_Tools</property>
+                <property name="use_underline">True</property>
+                <child type="submenu">
+                  <object class="GtkMenu" id="menu1">
+                    <property name="visible">True</property>
+                    <child>
+                      <object class="GtkCheckMenuItem" id="mnuToolsMonitorLogs">
+                        <property name="visible">True</property>
+                        <property name="related_action">tactMonitorLogs</property>
+                        <property name="label" translatable="yes">Monitor logs</property>
+                        <property name="use_underline">True</property>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <child>
+              <object class="GtkMenuItem" id="mnuHelp">
+                <property name="visible">True</property>
+                <property name="label" translatable="yes">Ay_uda</property>
+                <property name="use_underline">True</property>
+                <child type="submenu">
+                  <object class="GtkMenu" id="mnubHelp">
+                    <property name="visible">True</property>
+                    <child>
+                      <object class="GtkImageMenuItem" id="mnuHelpAbout">
+                        <property name="label">gtk-about</property>
+                        <property name="visible">True</property>
+                        <property name="use_underline">True</property>
+                        <property name="use_stock">True</property>
+                        <property name="always_show_image">True</property>
+                        <signal name="activate" handler="showAbout"/>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkToolbar" id="tlbMain">
+            <property name="visible">True</property>
+            <property name="icon_size">2</property>
+            <child>
+              <object class="GtkToolButton" id="tlbtOpenLogFile">
+                <property name="visible">True</property>
+                <property name="tooltip_text" translatable="yes">Open an arbitrary log file</property>
+                <property name="label" translatable="yes">Open Log File</property>
+                <property name="use_underline">True</property>
+                <property name="stock_id">gtk-open</property>
+                <signal name="clicked" handler="openLogFile"/>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="homogeneous">True</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkSeparatorToolItem" id="tlbSep3">
+                <property name="visible">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="homogeneous">True</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkToggleToolButton" id="tlbtMonitorLogs">
+                <property name="visible">True</property>
+                <property name="tooltip_text" translatable="yes">Log monitoring</property>
+                <property name="related_action">tactMonitorLogs</property>
+                <property name="use_action_appearance">True</property>
+                <property name="label" translatable="yes">Monitor logs</property>
+                <property name="use_underline">True</property>
+                <property name="active">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="homogeneous">True</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkToggleToolButton" id="tlbtShowInfoBar">
+                <property name="visible">True</property>
+                <property name="related_action">tactShowInfoBar</property>
+                <property name="use_action_appearance">True</property>
+                <property name="label" translatable="yes">Show info bar</property>
+                <property name="use_underline">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="homogeneous">True</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkToggleToolButton" id="tlbtShowConsole">
+                <property name="visible">True</property>
+                <property name="tooltip_text" translatable="yes">Show/Hide Console</property>
+                <property name="related_action">tactShowConsole</property>
+                <property name="use_action_appearance">True</property>
+                <property name="label" translatable="yes">Show console</property>
+                <property name="use_underline">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="homogeneous">True</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkSeparatorToolItem" id="tlbtSep1">
+                <property name="visible">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkToolButton" id="tlbtPreferences">
+                <property name="visible">True</property>
+                <property name="tooltip_text" translatable="yes">Show preferences dialog</property>
+                <property name="related_action">actPreferences</property>
+                <property name="use_action_appearance">True</property>
+                <property name="label" translatable="yes">Preferences</property>
+                <property name="use_underline">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="homogeneous">True</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkSeparatorToolItem" id="tlbsSep2">
+                <property name="visible">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="homogeneous">True</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkToolButton" id="tlbtAbout">
+                <property name="visible">True</property>
+                <property name="tooltip_text" translatable="yes">Show information about LOTROAssist</property>
+                <property name="label" translatable="yes">About</property>
+                <property name="use_underline">True</property>
+                <property name="stock_id">gtk-about</property>
+                <signal name="clicked" handler="showAbout"/>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="homogeneous">True</property>
+              </packing>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="position">1</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkHPaned" id="hpnLog">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="border_width">5</property>
+            <property name="position">590</property>
+            <property name="position_set">True</property>
+            <child>
+              <object class="GtkNotebook" id="ntbMain">
+                <property name="visible">True</property>
+                <property name="can_focus">True</property>
+                <child>
+                  <object class="GtkVBox" id="vbxDBWidgetsTests">
+                    <property name="visible">True</property>
+                    <child>
+                      <object class="DBComboBox" id="dbcmbTest">
+                        <property name="visible">True</property>
+                        <property name="choices">Prueba1,Prueba2,Prueba3,HOLA,Prueba4,Prueba5</property>
+                        <property name="help_text">Test ComboBox</property>
+                      </object>
+                      <packing>
+                        <property name="position">0</property>
+                      </packing>
+                    </child>
+                    <child>
+                      <object class="DBEntry" id="dbentTest">
+                        <property name="visible">True</property>
+                        <property name="can_focus">True</property>
+                        <property name="invisible_char">●</property>
+                        <property name="help_text">Test Entry</property>
+                        <property name="inmediate_validation">False</property>
+                      </object>
+                      <packing>
+                        <property name="position">1</property>
+                      </packing>
+                    </child>
+                    <child>
+                      <object class="DBSpinButton" id="dbspnTest">
+                        <property name="visible">True</property>
+                        <property name="can_focus">True</property>
+                        <property name="invisible_char">•</property>
+                        <property name="adjustment">adjdbspnTest</property>
+                        <property name="digits">1</property>
+                        <property name="help_text">Test SpinButton</property>
+                      </object>
+                      <packing>
+                        <property name="position">2</property>
+                      </packing>
+                    </child>
+                    <child>
+                      <object class="DBCheckButton" id="dbchkTest">
+                        <property name="label" translatable="yes">checkbutton</property>
+                        <property name="visible">True</property>
+                        <property name="can_focus">True</property>
+                        <property name="receives_default">False</property>
+                        <property name="focus_on_click">False</property>
+                        <property name="draw_indicator">True</property>
+                        <property name="help_text">Test CheckButton</property>
+                        <property name="inmediate_validation">False</property>
+                      </object>
+                      <packing>
+                        <property name="position">3</property>
+                      </packing>
+                    </child>
+                    <child>
+                      <object class="DBDatePicker" id="dbdtpTest">
+                        <property name="visible">True</property>
+                        <property name="can_focus">True</property>
+                        <property name="has_tooltip">True</property>
+                        <property name="tooltip_markup">Help text</property>
+                        <property name="tooltip_text" translatable="yes">Help text</property>
+                        <property name="invisible_char">•</property>
+                        <property name="text" translatable="yes">05/10/10</property>
+                        <property name="primary_icon_tooltip_text">Select a date</property>
+                      </object>
+                      <packing>
+                        <property name="position">4</property>
+                      </packing>
+                    </child>
+                    <child>
+                      <object class="DBCalendar" id="dbcalTest">
+                        <property name="visible">True</property>
+                        <property name="can_focus">True</property>
+                        <property name="year">2010</property>
+                        <property name="month">9</property>
+                        <property name="day">5</property>
+                      </object>
+                      <packing>
+                        <property name="position">5</property>
+                      </packing>
+                    </child>
+                    <child>
+                      <object class="DBRegExpEntry" id="dbreentTest">
+                        <property name="visible">True</property>
+                        <property name="can_focus">True</property>
+                        <property name="has_tooltip">True</property>
+                        <property name="tooltip_markup">Help text</property>
+                        <property name="tooltip_text" translatable="yes">Help text</property>
+                        <property name="invisible_char">•</property>
+                        <property name="regular_expression">abc.*</property>
+                      </object>
+                      <packing>
+                        <property name="position">6</property>
+                      </packing>
+                    </child>
+                  </object>
+                </child>
+                <child type="tab">
+                  <object class="GtkLabel" id="lblDBWidgetsTests">
+                    <property name="visible">True</property>
+                    <property name="label" translatable="yes">DBWidgets Test</property>
+                  </object>
+                  <packing>
+                    <property name="tab_fill">False</property>
+                  </packing>
+                </child>
+                <child>
+                  <placeholder/>
+                </child>
+                <child type="tab">
+                  <placeholder/>
+                </child>
+                <child>
+                  <placeholder/>
+                </child>
+                <child type="tab">
+                  <placeholder/>
+                </child>
+              </object>
+              <packing>
+                <property name="resize">False</property>
+                <property name="shrink">True</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkNotebook" id="ntbLists">
+                <property name="width_request">50</property>
+                <property name="visible">True</property>
+                <property name="can_focus">True</property>
+                <property name="scrollable">True</property>
+                <child>
+                  <placeholder/>
+                </child>
+                <child type="tab">
+                  <placeholder/>
+                </child>
+                <child>
+                  <placeholder/>
+                </child>
+                <child type="tab">
+                  <placeholder/>
+                </child>
+                <child>
+                  <placeholder/>
+                </child>
+                <child type="tab">
+                  <placeholder/>
+                </child>
+              </object>
+              <packing>
+                <property name="resize">False</property>
+                <property name="shrink">True</property>
+              </packing>
+            </child>
+          </object>
+          <packing>
+            <property name="position">2</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkStatusbar" id="stbMain">
+            <property name="visible">True</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">False</property>
+            <property name="position">3</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+  <object class="GtkMenu" id="mnuTrayIcon">
+    <property name="visible">True</property>
+    <child>
+      <object class="GtkImageMenuItem" id="mnuTrayIconShow">
+        <property name="label">Show LOTROAssist</property>
+        <property name="visible">True</property>
+        <property name="tooltip_text" translatable="yes">Show main LOTROAssist window</property>
+        <property name="image">imgTrayIconMenuShow</property>
+        <property name="use_stock">False</property>
+        <property name="always_show_image">True</property>
+        <signal name="activate" handler="trayIconActivate"/>
+      </object>
+    </child>
+    <child>
+      <object class="GtkSeparatorMenuItem" id="mnuTrayIconSep2">
+        <property name="visible">True</property>
+      </object>
+    </child>
+    <child>
+      <object class="GtkImageMenuItem" id="mnuTrayIconOpenLog">
+        <property name="label" translatable="yes">Open log file</property>
+        <property name="visible">True</property>
+        <property name="image">imgTrayIconMenuOpenLog</property>
+        <property name="use_stock">False</property>
+        <property name="always_show_image">True</property>
+        <signal name="activate" handler="openLogFile"/>
+      </object>
+    </child>
+    <child>
+      <object class="GtkCheckMenuItem" id="mnuTrayIconMonitorLogs">
+        <property name="visible">True</property>
+        <property name="related_action">tactMonitorLogs</property>
+        <property name="use_action_appearance">True</property>
+        <property name="active">True</property>
+      </object>
+    </child>
+    <child>
+      <object class="GtkCheckMenuItem" id="mnuTrayIconShowInfoBar">
+        <property name="visible">True</property>
+        <property name="related_action">tactShowInfoBar</property>
+        <property name="use_action_appearance">True</property>
+      </object>
+    </child>
+    <child>
+      <object class="GtkCheckMenuItem" id="mnuTrayIconShowConsole">
+        <property name="visible">True</property>
+        <property name="related_action">tactShowConsole</property>
+        <property name="use_action_appearance">True</property>
+      </object>
+    </child>
+    <child>
+      <object class="GtkImageMenuItem" id="mnuTrayIconPreferences">
+        <property name="visible">True</property>
+        <property name="related_action">actPreferences</property>
+        <property name="use_action_appearance">True</property>
+        <property name="use_underline">True</property>
+        <property name="use_stock">True</property>
+        <property name="always_show_image">True</property>
+      </object>
+    </child>
+    <child>
+      <object class="GtkSeparatorMenuItem" id="mnuTrayIconSep1">
+        <property name="visible">True</property>
+      </object>
+    </child>
+    <child>
+      <object class="GtkImageMenuItem" id="mnuTrayIconQuit">
+        <property name="label">gtk-quit</property>
+        <property name="visible">True</property>
+        <property name="tooltip_text" translatable="yes">Quit LOTROAssist</property>
+        <property name="use_underline">True</property>
+        <property name="use_stock">True</property>
+        <property name="always_show_image">True</property>
+        <signal name="activate" handler="quitApplication"/>
+      </object>
+    </child>
+  </object>
+  <object class="GtkImage" id="imgTrayIconMenuOpenLog">
+    <property name="visible">True</property>
+    <property name="stock">gtk-open</property>
+  </object>
+  <object class="GtkImage" id="imgTrayIconMenuShow">
+    <property name="visible">True</property>
+    <property name="stock">gtk-goto-top</property>
+  </object>
+  <object class="GtkDialog" id="winPreferences">
+    <property name="border_width">5</property>
+    <property name="title" translatable="yes">LOTROAssist Preferences</property>
+    <property name="resizable">False</property>
+    <property name="modal">True</property>
+    <property name="window_position">center-on-parent</property>
+    <property name="icon">pixmaps/lotroassist.png</property>
+    <property name="type_hint">normal</property>
+    <signal name="delete_event" handler="savePreferences"/>
+    <child internal-child="vbox">
+      <object class="GtkVBox" id="vbxPreferencesMain">
+        <property name="visible">True</property>
+        <property name="spacing">2</property>
+        <child>
+          <object class="GtkNotebook" id="ntbPreferences">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <child>
+              <object class="GtkVBox" id="vbxPreferencesGeneral">
+                <property name="visible">True</property>
+                <property name="border_width">5</property>
+                <property name="spacing">5</property>
+                <child>
+                  <object class="GtkFrame" id="fraPreferencesDataDir">
+                    <property name="visible">True</property>
+                    <property name="label_xalign">0</property>
+                    <property name="shadow_type">out</property>
+                    <child>
+                      <object class="GtkAlignment" id="algPreferencesDataDir">
+                        <property name="visible">True</property>
+                        <property name="border_width">5</property>
+                        <property name="left_padding">12</property>
+                        <child>
+                          <object class="GtkVBox" id="vbxPreferencesDataDir">
+                            <property name="visible">True</property>
+                            <property name="spacing">5</property>
+                            <child>
+                              <object class="GtkHBox" id="hbxPreferencesDataDir">
+                                <property name="visible">True</property>
+                                <property name="spacing">5</property>
+                                <child>
+                                  <object class="GtkLabel" id="lblPreferencesLogDirLabel">
+                                    <property name="visible">True</property>
+                                    <property name="xalign">0</property>
+                                    <property name="label" translatable="yes">Data directory</property>
+                                  </object>
+                                  <packing>
+                                    <property name="position">0</property>
+                                  </packing>
+                                </child>
+                                <child>
+                                  <object class="GtkFileChooserButton" id="fcbDataDir">
+                                    <property name="visible">True</property>
+                                    <property name="action">select-folder</property>
+                                    <property name="create_folders">False</property>
+                                    <property name="preview_widget_active">False</property>
+                                    <property name="show_hidden">True</property>
+                                    <property name="use_preview_label">False</property>
+                                    <property name="title" translatable="yes">Select Log Directory</property>
+                                  </object>
+                                  <packing>
+                                    <property name="position">1</property>
+                                  </packing>
+                                </child>
+                              </object>
+                              <packing>
+                                <property name="position">0</property>
+                              </packing>
+                            </child>
+                          </object>
+                        </child>
+                      </object>
+                    </child>
+                    <child type="label">
+                      <object class="GtkLabel" id="lblPreferencesDataDir">
+                        <property name="visible">True</property>
+                        <property name="yalign">0.47999998927116394</property>
+                        <property name="label" translatable="yes">&lt;b&gt;User data directory&lt;/b&gt;</property>
+                        <property name="use_markup">True</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">False</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkFrame" id="fraPreferencesTray">
+                    <property name="visible">True</property>
+                    <property name="label_xalign">0</property>
+                    <property name="shadow_type">out</property>
+                    <child>
+                      <object class="GtkAlignment" id="algPreferencesTray">
+                        <property name="visible">True</property>
+                        <property name="border_width">5</property>
+                        <property name="left_padding">12</property>
+                        <child>
+                          <object class="GtkVBox" id="vbxPreferencesTray">
+                            <property name="visible">True</property>
+                            <property name="spacing">5</property>
+                            <child>
+                              <object class="GtkCheckButton" id="chkAlwaysShowTrayIcon">
+                                <property name="label" translatable="yes">Always show system tray icon</property>
+                                <property name="visible">True</property>
+                                <property name="can_focus">True</property>
+                                <property name="receives_default">False</property>
+                                <property name="draw_indicator">True</property>
+                              </object>
+                              <packing>
+                                <property name="position">0</property>
+                              </packing>
+                            </child>
+                            <child>
+                              <object class="GtkCheckButton" id="chkCloseToTray">
+                                <property name="label" translatable="yes">Close LOTROAssist to system tray</property>
+                                <property name="visible">True</property>
+                                <property name="can_focus">True</property>
+                                <property name="receives_default">False</property>
+                                <property name="draw_indicator">True</property>
+                              </object>
+                              <packing>
+                                <property name="position">1</property>
+                              </packing>
+                            </child>
+                          </object>
+                        </child>
+                      </object>
+                    </child>
+                    <child type="label">
+                      <object class="GtkLabel" id="lblPreferencesTray">
+                        <property name="visible">True</property>
+                        <property name="label" translatable="yes">&lt;b&gt;Tray icon options&lt;/b&gt;</property>
+                        <property name="use_markup">True</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">False</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkFrame" id="fraPreferencesNotifications">
+                    <property name="visible">True</property>
+                    <property name="label_xalign">0</property>
+                    <property name="shadow_type">out</property>
+                    <child>
+                      <object class="GtkAlignment" id="algPreferencesNotifications">
+                        <property name="visible">True</property>
+                        <property name="border_width">5</property>
+                        <property name="left_padding">12</property>
+                        <child>
+                          <object class="GtkVBox" id="vbxPreferencesNotifications">
+                            <property name="visible">True</property>
+                            <property name="spacing">5</property>
+                            <child>
+                              <object class="GtkCheckButton" id="chkShowNotifications">
+                                <property name="label" translatable="yes">Enable system notifications</property>
+                                <property name="visible">True</property>
+                                <property name="can_focus">True</property>
+                                <property name="receives_default">False</property>
+                                <property name="draw_indicator">True</property>
+                              </object>
+                              <packing>
+                                <property name="position">0</property>
+                              </packing>
+                            </child>
+                          </object>
+                        </child>
+                      </object>
+                    </child>
+                    <child type="label">
+                      <object class="GtkLabel" id="lblPreferencesNotifications">
+                        <property name="visible">True</property>
+                        <property name="label" translatable="yes">&lt;b&gt;Notifications options&lt;/b&gt;</property>
+                        <property name="use_markup">True</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">False</property>
+                    <property name="position">2</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="reorderable">True</property>
+              </packing>
+            </child>
+            <child type="tab">
+              <object class="GtkLabel" id="lblPreferencesGeneral">
+                <property name="visible">True</property>
+                <property name="label" translatable="yes">General</property>
+              </object>
+              <packing>
+                <property name="tab_fill">False</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkVBox" id="vbxPreferencesLog">
+                <property name="visible">True</property>
+                <property name="border_width">5</property>
+                <property name="spacing">5</property>
+                <child>
+                  <object class="GtkFrame" id="fraPreferencesLogOpts">
+                    <property name="visible">True</property>
+                    <property name="label_xalign">0</property>
+                    <property name="shadow_type">out</property>
+                    <child>
+                      <object class="GtkAlignment" id="algPreferencesLogOpts">
+                        <property name="visible">True</property>
+                        <property name="border_width">5</property>
+                        <property name="left_padding">12</property>
+                        <child>
+                          <object class="GtkVBox" id="vbxPreferencesLogOpts">
+                            <property name="visible">True</property>
+                            <property name="spacing">5</property>
+                            <child>
+                              <object class="GtkCheckButton" id="chkForceSimpleLog">
+                                <property name="label" translatable="yes">Force simple log window</property>
+                                <property name="visible">True</property>
+                                <property name="can_focus">True</property>
+                                <property name="receives_default">False</property>
+                                <property name="draw_indicator">True</property>
+                              </object>
+                              <packing>
+                                <property name="position">0</property>
+                              </packing>
+                            </child>
+                            <child>
+                              <object class="GtkHBox" id="hbxPreferencesLogDelay">
+                                <property name="visible">True</property>
+                                <property name="spacing">5</property>
+                                <child>
+                                  <object class="GtkLabel" id="lblPreferencesLogDelay">
+                                    <property name="visible">True</property>
+                                    <property name="xalign">0</property>
+                                    <property name="label" translatable="yes">Log Delay (ms)</property>
+                                  </object>
+                                  <packing>
+                                    <property name="position">0</property>
+                                  </packing>
+                                </child>
+                                <child>
+                                  <object class="GtkSpinButton" id="spnLogDelay">
+                                    <property name="visible">True</property>
+                                    <property name="can_focus">True</property>
+                                    <property name="invisible_char">●</property>
+                                    <property name="xalign">0.5</property>
+                                    <property name="adjustment">adjSpnDelay</property>
+                                    <property name="numeric">True</property>
+                                  </object>
+                                  <packing>
+                                    <property name="expand">False</property>
+                                    <property name="position">1</property>
+                                  </packing>
+                                </child>
+                              </object>
+                              <packing>
+                                <property name="position">1</property>
+                              </packing>
+                            </child>
+                          </object>
+                        </child>
+                      </object>
+                    </child>
+                    <child type="label">
+                      <object class="GtkLabel" id="lblPreferencesLogOpts">
+                        <property name="visible">True</property>
+                        <property name="label" translatable="yes">&lt;b&gt;Logging options&lt;/b&gt;</property>
+                        <property name="use_markup">True</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">False</property>
+                    <property name="position">0</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkFrame" id="fraPreferencesLogColors">
+                    <property name="visible">True</property>
+                    <property name="label_xalign">0</property>
+                    <property name="shadow_type">out</property>
+                    <child>
+                      <object class="GtkAlignment" id="algPreferencesLogColors">
+                        <property name="visible">True</property>
+                        <property name="border_width">5</property>
+                        <property name="left_padding">12</property>
+                        <child>
+                          <object class="GtkVBox" id="vbxPreferencesLogColors">
+                            <property name="visible">True</property>
+                            <property name="spacing">5</property>
+                            <child>
+                              <object class="GtkHBox" id="hbxPreferencesLogColorsNormal">
+                                <property name="visible">True</property>
+                                <property name="spacing">5</property>
+                                <child>
+                                  <object class="GtkLabel" id="lblPreferencesLogNormalColor">
+                                    <property name="visible">True</property>
+                                    <property name="xalign">0</property>
+                                    <property name="label" translatable="yes">Normal log message color</property>
+                                  </object>
+                                  <packing>
+                                    <property name="position">0</property>
+                                  </packing>
+                                </child>
+                                <child>
+                                  <object class="GtkColorButton" id="cbNormalColor">
+                                    <property name="visible">True</property>
+                                    <property name="can_focus">True</property>
+                                    <property name="receives_default">True</property>
+                                    <property name="color">#000000000000</property>
+                                  </object>
+                                  <packing>
+                                    <property name="expand">False</property>
+                                    <property name="fill">False</property>
+                                    <property name="position">1</property>
+                                  </packing>
+                                </child>
+                              </object>
+                              <packing>
+                                <property name="position">0</property>
+                              </packing>
+                            </child>
+                            <child>
+                              <object class="GtkHBox" id="hbxPreferencesLogColorsInternal">
+                                <property name="visible">True</property>
+                                <property name="spacing">5</property>
+                                <child>
+                                  <object class="GtkLabel" id="lblPreferencesLogInternalColor">
+                                    <property name="visible">True</property>
+                                    <property name="xalign">0</property>
+                                    <property name="label" translatable="yes">Internal log message color</property>
+                                  </object>
+                                  <packing>
+                                    <property name="position">0</property>
+                                  </packing>
+                                </child>
+                                <child>
+                                  <object class="GtkColorButton" id="cbInternalColor">
+                                    <property name="visible">True</property>
+                                    <property name="can_focus">True</property>
+                                    <property name="receives_default">True</property>
+                                    <property name="color">#000000000000</property>
+                                  </object>
+                                  <packing>
+                                    <property name="expand">False</property>
+                                    <property name="fill">False</property>
+                                    <property name="position">1</property>
+                                  </packing>
+                                </child>
+                              </object>
+                              <packing>
+                                <property name="position">1</property>
+                              </packing>
+                            </child>
+                            <child>
+                              <object class="GtkHBox" id="hbxPreferencesLogColorsOpen">
+                                <property name="visible">True</property>
+                                <property name="spacing">5</property>
+                                <child>
+                                  <object class="GtkLabel" id="lblPreferencesLogOpenColor">
+                                    <property name="visible">True</property>
+                                    <property name="xalign">0</property>
+                                    <property name="label" translatable="yes">Log file opened message color</property>
+                                  </object>
+                                  <packing>
+                                    <property name="position">0</property>
+                                  </packing>
+                                </child>
+                                <child>
+                                  <object class="GtkColorButton" id="cbLogOpenColor">
+                                    <property name="visible">True</property>
+                                    <property name="can_focus">True</property>
+                                    <property name="receives_default">True</property>
+                                    <property name="color">#000000000000</property>
+                                  </object>
+                                  <packing>
+                                    <property name="expand">False</property>
+                                    <property name="fill">False</property>
+                                    <property name="position">1</property>
+                                  </packing>
+                                </child>
+                              </object>
+                              <packing>
+                                <property name="position">2</property>
+                              </packing>
+                            </child>
+                            <child>
+                              <object class="GtkHBox" id="hbxPreferencesLogColorsPlugin">
+                                <property name="visible">True</property>
+                                <property name="spacing">5</property>
+                                <child>
+                                  <object class="GtkLabel" id="lblPreferencesPluginColor">
+                                    <property name="visible">True</property>
+                                    <property name="xalign">0</property>
+                                    <property name="label" translatable="yes">Plugin system message color</property>
+                                  </object>
+                                  <packing>
+                                    <property name="position">0</property>
+                                  </packing>
+                                </child>
+                                <child>
+                                  <object class="GtkColorButton" id="cbPluginColor">
+                                    <property name="visible">True</property>
+                                    <property name="can_focus">True</property>
+                                    <property name="receives_default">True</property>
+                                    <property name="color">#000000000000</property>
+                                  </object>
+                                  <packing>
+                                    <property name="expand">False</property>
+                                    <property name="fill">False</property>
+                                    <property name="position">1</property>
+                                  </packing>
+                                </child>
+                              </object>
+                              <packing>
+                                <property name="position">3</property>
+                              </packing>
+                            </child>
+                          </object>
+                        </child>
+                      </object>
+                    </child>
+                    <child type="label">
+                      <object class="GtkLabel" id="lblPreferencesLogColors">
+                        <property name="visible">True</property>
+                        <property name="label" translatable="yes">&lt;b&gt;Logging color options&lt;/b&gt;</property>
+                        <property name="use_markup">True</property>
+                      </object>
+                    </child>
+                  </object>
+                  <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">False</property>
+                    <property name="position">1</property>
+                  </packing>
+                </child>
+              </object>
+              <packing>
+                <property name="position">1</property>
+              </packing>
+            </child>
+            <child type="tab">
+              <object class="GtkLabel" id="lblPreferencesLog">
+                <property name="visible">True</property>
+                <property name="label" translatable="yes">Log</property>
+              </object>
+              <packing>
+                <property name="position">1</property>
+                <property name="tab_fill">False</property>
+              </packing>
+            </child>
+            <child>
+              <placeholder/>
+            </child>
+            <child type="tab">
+              <placeholder/>
+            </child>
+          </object>
+          <packing>
+            <property name="position">1</property>
+          </packing>
+        </child>
+        <child internal-child="action_area">
+          <object class="GtkHButtonBox" id="daaPreferences">
+            <property name="visible">True</property>
+            <property name="layout_style">end</property>
+            <child>
+              <object class="GtkButton" id="butPreferencesClose">
+                <property name="label">gtk-close</property>
+                <property name="visible">True</property>
+                <property name="can_focus">True</property>
+                <property name="receives_default">True</property>
+                <property name="use_stock">True</property>
+                <signal name="clicked" handler="savePreferences"/>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">False</property>
+                <property name="position">0</property>
+              </packing>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="pack_type">end</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+    <action-widgets>
+      <action-widget response="0">butPreferencesClose</action-widget>
+    </action-widgets>
+  </object>
+  <object class="GtkToggleAction" id="tactShowConsole">
+    <property name="label">Show console</property>
+    <property name="tooltip">Shows console window</property>
+    <property name="stock_id">gtk-index</property>
+    <signal name="toggled" handler="toggleConsole"/>
+  </object>
+  <object class="GtkToggleAction" id="tactMonitorLogs">
+    <property name="label">Monitor log files</property>
+    <property name="tooltip">Monitorize log files in log directory to automatically open new logs</property>
+    <property name="stock_id">gtk-execute</property>
+    <signal name="toggled" handler="toggleMonitorLogs"/>
+  </object>
+  <object class="GtkToggleAction" id="tactShowInfoBar">
+    <property name="label">Show info bar</property>
+    <property name="tooltip">Show the information bar</property>
+    <property name="stock_id">gtk-info</property>
+    <signal name="toggled" handler="toggleInfoBar"/>
+  </object>
+  <object class="GtkAction" id="actPreferences">
+    <property name="label">Preferences</property>
+    <property name="tooltip">Open preferences dialog</property>
+    <property name="stock_id">gtk-preferences</property>
+    <signal name="activate" handler="showPreferences"/>
+  </object>
+  <object class="GtkAdjustment" id="adjSpnDelay">
+    <property name="value">1</property>
+    <property name="lower">1</property>
+    <property name="upper">1000</property>
+    <property name="step_increment">1</property>
+  </object>
+  <object class="GtkWindow" id="winConsole">
+    <property name="width_request">350</property>
+    <property name="height_request">200</property>
+    <property name="title" translatable="yes">LOTROAssist Console</property>
+    <property name="window_position">center</property>
+    <property name="default_width">300</property>
+    <property name="default_height">200</property>
+    <property name="icon">pixmaps/lotroassist.png</property>
+    <signal name="delete_event" handler="toggleConsole"/>
+    <child>
+      <object class="GtkNotebook" id="ntbConsole">
+        <property name="visible">True</property>
+        <property name="can_focus">True</property>
+        <child>
+          <object class="GtkScrolledWindow" id="scrConsole">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="hscrollbar_policy">automatic</property>
+            <property name="shadow_type">in</property>
+            <child>
+              <placeholder/>
+            </child>
+          </object>
+        </child>
+        <child type="tab">
+          <object class="GtkLabel" id="lblConsoleMain">
+            <property name="visible">True</property>
+            <property name="label" translatable="yes">Main</property>
+          </object>
+          <packing>
+            <property name="tab_fill">False</property>
+          </packing>
+        </child>
+        <child>
+          <placeholder/>
+        </child>
+        <child type="tab">
+          <placeholder/>
+        </child>
+        <child>
+          <placeholder/>
+        </child>
+        <child type="tab">
+          <placeholder/>
+        </child>
+      </object>
+    </child>
+  </object>
+  <object class="GtkAdjustment" id="adjdbspnTest">
+    <property name="upper">100</property>
+    <property name="step_increment">0.10000000000000001</property>
+  </object>
+</interface>

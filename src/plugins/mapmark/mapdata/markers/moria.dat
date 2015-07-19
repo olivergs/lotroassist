@@ -1,0 +1,740 @@
+-3.0;-107.5;Ancient Records;Item
+-3.3;-107.8;Ancient Records;Item
+-3.8;-107.3;Ancient Records;Item
+-4.2;-108.2;Ancient Records;Item
+-2.9;-106.9;Arnfinn;NPC
+-4.3;-110.2;bat-cave;POI
+-2.3;-102.0;Cage;Item
+-2.5;-101.8;Cage;Item
+-2.5;-101.7;Cage;Item
+-2.4;-101.6;Cage;Item
+-2.9;-101.9;Cage;Item
+-3.0;-101.6;Cage;Item
+-3.5;-104.7;Cauldron;Item
+-3.5;-105.0;Cauldron;Item
+-3.5;-104.3;Cauldron;Item
+-3.7;-104.6;Cauldron;Item
+-3.8;-104.3;Cauldron;Item
+-3.7;-105.0;Cauldron;Item
+-3.6;-109.3;Central Statue;Item
+-4.1;-100.8;Dar-rukh;POI
+-2.9;-104.6;Decaying column;Item
+-3.1;-104.2;Decaying column;Item
+-4.3;-104.9;Decaying column;Item
+-4.2;-104.9;Decaying column;Item
+-4.3;-104.6;Decaying column;Item
+-4.1;-104.0;Decaying column;Item
+-2.9;-104.9;Decaying column;Item
+-3.1;-105.0;Decaying column;Item
+-3.6;-110.8;Durin's Crossing;POI
+-3.8;-101.8;Erlar;NPC
+-4.1;-104.6;Fehem-dum;POI
+-5.2;-112.0;Forge-master The Chamber of the Crossroads;Item-master
+-3.9;-105.7;Forge-master The Stone Hall;Item-master
+-4.1;-111.2;Gloku-ru;POI
+-4.5;-111.9;Goblin-drum;Item
+-4.5;-112.0;Goblin-drum;Item
+-4.8;-112.1;Goblin-drum;Item
+-4.7;-111.9;Goblin-drum;Item
+-4.7;-111.8;Goblin-drum;Item
+-4.6;-111.8;Goblin-drum;Item
+-3.0;-100.8;Grishurbhrum;POI
+-3.0;-104.7;Hadad-dum;POI
+-5.4;-108.9;Hadudbab;POI
+-5.1;-112.1;Healer The Chamber of the Crossroads;Healer
+-4.0;-105.7;Healer The Stone Hall;Healer
+-3.6;-106.0;Jazargund;POI
+-5.4;-110.2;Jundulbab;POI
+-3.6;-104.6;Jundul-dum;POI
+-2.7;-100.1;Khulturg;POI
+-3.8;-112.5;Krum;NPC
+-5.2;-112.0;Mailbox The Chamber of the Crossroads;Item
+-3.8;-105.9;Mailbox The Stone Hall;Item
+-5.6;-112.0;Manarbul;POI
+-5.2;-111.9;Milestone The Chamber of the Crossroads;Milestone
+-3.9;-105.7;Milestone The Stone Hall;Milestone
+-3.6;-109.1;Mirror;Item
+-4.5;-100.5;Mirror Of Bogrian;Item
+-4.8;-107.2;Mokurzmul;POI
+-3.4;-110.7;Moria-mirror;Item
+-3.3;-106.9;Moria-mirror;Item
+-2.5;-102.4;Morvul-scout;Mob
+-3.2;-111.9;Mudmulzarak;POI
+-3.4;-99.3;Nest;Item
+-3.6;-99.0;Nest;Item
+-3.6;-99.1;Nest;Item
+-3.6;-99.4;Nest;Item
+-3.9;-99.3;Nest;Item
+-4.0;-99.6;Nest;Item
+-4.1;-99.8;Nest;Item
+-3.6;-99.9;Nest;Item
+-3.6;-112.9;Ninknakh Faltor;POI
+-3.0;-109.0;Northern Statue;Item
+-2.9;-107.2;Entrance to The Peaceful Path;POI
+-2.9;-109.6;Pile Of Old Weapons;Item
+-5.1;-112.1;Provisioner The Chamber of the Crossroads;Provisioner
+-4.0;-105.7;Provisioner The Stone Hall;Provisioner
+-5.1;-112.1;Purple Door;POI
+-5.2;-111.9;Relic-master The Chamber of the Crossroads;Item-master
+-3.9;-105.7;Relic-master The Stone Hall;Item-master
+-3.6;-107.5;Salab Nurjundul;POI
+-5.7;-112.0;Shattered statue;POI
+-3.0;-104.7;Sheet-music;Item
+-2.9;-104.4;Sheet-music;Item
+-2.9;-104.2;Sheet-music;Item
+-4.3;-104.6;Sheet-music;Item
+-4.2;-105.0;Sheet-music;Item
+-4.2;-104.4;Sheet-music;Item
+-3.6;-99.6;Skoiruzg;POI
+-4.2;-109.1;Southern Statue;Item
+-5.7;-112.1;Sporr;NPC
+-5.2;-112.1;Stable-master The Chamber of the Crossroads;Stablemaster
+-3.7;-106.0;Stable-master The Stone Hall;Stablemaster
+-2.9;-110.8;Stable-master Zirakzigil;Stablemaster
+-3.1;-107.8;Statue-arm;Item
+-3.1;-108.0;Sulnul-dum;POI
+-4.3;-112.4;Supply-crate;Item
+-4.0;-112.3;Supply-crate;Item
+-3.6;-112.0;Supply-crate;Item
+-3.3;-112.1;Supply-crate;Item
+-3.1;-112.1;Supply-crate;Item
+-2.9;-111.9;Supply-crate;Item
+-5.2;-112.2;Tankard in Chamber Of Crossroads;Item
+-3.9;-105.7;Tankard in Stone-hall;Item
+-3.6;-109.2;Tharakh Bazan;POI
+-5.1;-112.1;The Chamber of the Crossroads;POI
+-4.1;-110.4;The Chamber of Wisdom;POI
+-2.8;-110.8;The Door to the Clouds;POI
+-4.1;-108.0;The Glass-hall;POI
+-4.7;-112.0;The Hall of the High Stair;POI
+-3.1;-107.2;The Mustering Hall;POI
+-5.8;-106.7;The Twenty-first Hall: West Arch;POI
+-2.7;-101.8;Tith-maudhul;POI
+-3.1;-110.3;Uflump-mur;POI
+-3.7;-110.9;White Hand Emissary;Mob
+-4.3;-111.1;White Hand Emissary;Mob
+-3.6;-112.8;White Hand Emissary;Mob
+-4.0;-107.1;Zabad-dum;POI
+-4.3;-104.0;Zahof;Mob
+-4.1;-110.4;Zarargharaf;POI
+-5.7;-107.6;Zigilnab;POI
+-13.3;-108.1;Anazarmekhem;POI
+-14.4;-109.1;Anghumu-ru;POI
+-15.6;-106.7;Bhraf-ru;POI
+-16.4;-109.6;Camp Site Fire;Item
+-17.0;-108.3;Dolpan;Mob
+-16.4;-107.2;Durin's Court;POI
+-17.1;-109.6;Fil Gashan;POI
+-13.3;-108.1;Forge-master;Item-master
+-15.8;-108.6;Gate of the Seven Fathers;POI
+-16.2;-107.3;Ghash-Hai Altar;Item
+-16.4;-107.3;Ghash-Hai Altar;Item
+-16.7;-107.2;Ghash-Hai Altar;Item
+-17.0;-107.2;Ghash-Hai Altar;Item
+-14.7;-107.6;Hadad-mezer;POI
+-13.4;-108.1;Healer;Healer
+-13.4;-108.1;Heavy Armor Trader;Heavy Armor Trader
+-17.0;-109.6;Hudnul-meden;POI
+-17.0;-107.1;Hurmulkezer;POI
+-13.4;-108.1;Light Armor Trader;Light Armor Trader
+-13.3;-108.1;Mailbox;POI
+-13.4;-108.1;Medium Armor Trader;Medium Armor Trader
+-13.3;-108.0;Milestone;Milestone
+-16.6;-108.9;Mirror;Item
+-17.0;-107.2;Nanulg (captain 58lvl class quest);Mob
+-14.6;-106.9;Piece Of Scaffold;Item
+-14.7;-106.9;Piece Of Scaffold;Item
+-14.4;-106.4;Piece Of Scaffold;Item
+-14.4;-106.5;Piece Of Scaffold;Item
+-14.4;-106.6;Piece Of Scaffold;Item
+-14.1;-106.4;Piece Of Scaffold;Item
+-14.2;-106.2;Piece Of Scaffold;Item
+-14.1;-106.2;Piece Of Scaffold;Item
+-14.6;-106.1;Piece Of Scaffold;Item
+-15.1;-106.1;Piece Of Scaffold;Item
+-15.2;-106.1;Piece Of Scaffold;Item
+-15.8;-106.3;Piece Of Scaffold;Item
+-13.4;-108.1;Provisioner;Provisioner
+-16.7;-109.4;Regin;NPC
+-13.3;-108.1;Relic-master;Item-master
+-15.4;-106.8;Right Locker For Riddle (ship, correct lever is key);Item
+-14.3;-107.8;Rubble;Item
+-14.3;-108.0;Rubble;Item
+-14.5;-107.9;Rubble;Item
+-14.6;-108.0;Rubble;Item
+-14.5;-108.1;Rubble;Item
+-14.7;-107.8;Rubble;Item
+-14.9;-107.8;Rubble;Item
+-15.0;-107.9;Rubble;Item
+-14.3;-107.4;Rubble;Item
+-14.4;-107.5;Rubble;Item
+-14.3;-107.2;Rubble;Item
+-14.5;-107.1;Rubble;Item
+-13.3;-108.0;Stable-master;Stablemaster
+-17.0;-107.3;Statue Shoulder-piece;Item
+-13.3;-108.1;Tankard in Flaming Deeps;Item
+-15.2;-110.4;Tanunshush;POI
+-15.8;-110.6;The Burning Stair;POI
+-15.8;-109.6;The Crossroads of Ash;POI
+-17.0;-109.7;The Forges of Khazad-Dum;POI
+-17.0;-108.0;Umukh-ghar;POI
+-17.0;-107.1;Yul;Mob
+-14.1;-109.9;Pukhal (captain 58lvl class quest);Mob
+-15.8;-107.0;Throqanducircrz;Mob, Ghandacircsh-hai Warrior elite mithril flake dropper
+-12.9;-101.8;Bregolnath;Mob
+-14.1;-97.5;Burned Hat;Item
+-14.7;-99.0;Burned Rubble;Item
+-13.4;-100.4;Camp Site Fire;Item
+-15.4;-97.4;Camp Site Fire;Item
+-12.8;-100.9;Crack In The Abyss;Item
+-12.0;-101.0;Crack In The Abyss;Item
+-12.2;-101.6;Crack In The Abyss;Item
+-14.2;-101.6;Dalgum-ru;POI
+-15.8;-97.3;Dark Delvings;POI
+-15.3;-96.2;Dead dwarf;Item
+-15.4;-95.9;Dead dwarf;Item
+-15.5;-96.0;Dead dwarf;Item
+-15.4;-95.7;Dead dwarf;Item
+-14.3;-95.8;Dead dwarf;Item
+-14.7;-95.9;Dead dwarf;Item
+-13.0;-101.7;Forge-master;Item-master
+-14.3;-101.6;Fresh Water;Item
+-13.7;-101.2;Fungul Structure;Item
+-14.3;-101.8;Fungul Structure;Item
+-13.6;-101.6;Fungul Structure;Item
+-13.3;-101.8;Fungul Structure;Item
+-14.1;-101.0;Fungul Structure;Item
+-14.2;-101.6;Fungul Structure;Item
+-13.0;-101.7;Healer;Healer
+-13.1;-101.3;Heavy Armor Trader;Heavy Armor Trader
+-14.6;-99.5;Horngaz (burglar 58lvl class quest);Mob
+-13.1;-101.3;Light Armor Trader;Light Armor Trader
+-13.1;-101.2;Mailbox;POI
+-13.1;-101.3;Medium Armor Trader;Medium Armor Trader
+-13.0;-101.7;Milestone;Milestone
+-13.6;-98.7;Mirror;Item
+-13.1;-101.3;Provisioner;Provisioner
+-13.0;-101.7;Relic-master;Item-master
+-15.2;-96.2;Rune-rock (warding runes quest);Item
+-15.0;-97.1;Rune-rock (words of light quest);Item
+-12.7;-97.9;Shik (minstrel 58lvl class quest);Mob
+-13.2;-100.4;Skumfil;POI
+-13.1;-101.2;Stable-master;Stablemaster
+-13.0;-101.7;Tankard in Shadowed Refuge;Item
+-14.1;-97.7;The Bridge-shard;POI
+-15.3;-95.6;The Dark Warden;Mob
+-15.0;-99.0;The Endless Stair;POI
+-13.0;-101.6;The Shadowed Refuge;POI
+-12.9;-99.2;Tunzelgund;POI
+-13.0;-99.0;Uanuiloth;Mob
+-12.0;-102.0;Zabad-fakak;POI
+-14.2;-101.5;Zarza;Mob
+-5.7;-103.8;Axe;Item
+-5.8;-103.9;Balin's Camp;POI
+-7.7;-102.2;Bidroi (burglar 58lvl class quest);Mob
+-8.1;-98.6;Brestir;NPC
+-11.0;-101.1;Camp Site Fire;Item
+-8.9;-103.2;Entrance To The Secret Chamber;POI
+-8.7;-103.5;First Power Of Line;Item
+-6.3;-101.1;Guarded junction;POI
+-8.0;-103.6;Khadar-zaram;POI
+-7.3;-100.9;Khurjezer;POI
+-10.6;-101.4;Largzurm Archer;Mob
+-8.6;-102.7;Mini-cart;Item
+-8.7;-102.9;Mini-cart;Item
+-8.8;-102.9;Mini-cart;Item
+-8.5;-103.2;Mini-cart;Item
+-8.6;-103.4;Mini-cart;Item
+-8.5;-103.1;Mini-cart;Item
+-8.6;-102.4;Mini-cart;Item
+-8.8;-102.2;Mini-cart;Item
+-7.2;-99.9;Narfulz-ore;Item
+-7.3;-99.7;Narfulz-ore;Item
+-7.6;-99.7;Narfulz-ore;Item
+-8.0;-99.5;Narfulz-ore;Item
+-8.0;-99.6;Narfulz-ore;Item
+-8.1;-99.8;Narfulz-ore;Item
+-8.1;-100.0;Narfulz-ore;Item
+-8.0;-99.9;Narfulz-ore;Item
+-7.7;-100.0;Narfulz-ore;Item
+-7.9;-100.1;Narfulz-ore;Item
+-7.1;-103.2;Pashnar;Mob
+-8.5;-103.9;Rubble;Item
+-8.9;-102.5;Second Power Of Line;Item
+-5.6;-103.9;Shadow Map;Item
+-10.1;-101.1;Sigin-tharakh;POI
+-8.0;-95.3;Stable-master;Stablemaster
+-5.7;-103.9;Stonecarver's Journal;Item
+-5.6;-99.2;Sudulthurkh;POI
+-8.0;-99.2;The Bridge of Khazad-dum (west arch);POI
+-8.0;-98.5;The Bridge of Khazad-dum (east arch);POI
+-6.3;-101.1;The Deep Crossroad;POI
+-8.0;-95.9;The First Hall;POI
+-11.1;-101.0;The Sixteenth Hall;POI
+-8.6;-100.5;Third Power Of Line;Item
+-8.0;-103.4;Tithenos;Mob
+-9.6;-101.5;Treasure-coffer;Item
+-9.3;-101.3;Treasure-coffer;Item
+-9.4;-101.7;Treasure-coffer;Item
+-9.3;-101.7;Treasure-coffer;Item
+-9.3;-101.4;Treasure-coffer;Item
+-9.3;-101.0;Treasure-coffer;Item
+-9.6;-102.4;Zabadgathol;POI
+-11.4;-103.5;Ashpar's Command;POI
+-10.9;-105.9;Black Powder;Item
+-11.0;-105.9;Black Powder;Item
+-11.5;-105.3;Black Powder;Item
+-12.3;-104.7;Black Powder;Item
+-12.3;-104.8;Black Powder;Item
+-12.2;-104.7;Black Powder;Item
+-12.0;-104.8;Black Powder;Item
+-11.2;-105.5;Black Powder;Item
+-10.8;-103.2;Budkhul-beken;POI
+-10.3;-103.9;Camp Site Fire;Item
+-13.7;-104.2;Crate;Item
+-12.7;-104.5;Dead dwarf (hunter 58lvl class quest);Item
+-12.5;-106.1;Folok (runekeeper 58lvl class quest);Mob
+-11.0;-104.0;Ghashanuz (hunter 58lvl class quest);Mob
+-11.1;-106.8;Iron Garrison Miners;NPC
+-13.3;-104.6;Kuli;NPC
+-12.2;-102.5;Luille (champion 58lvl class quest);Mob
+-11.2;-106.8;Mailbox;POI
+-12.5;-106.2;Malmezel;POI
+-12.0;-105.7;Menem-mezel;POI
+-12.5;-103.1;Mirror;Item
+-12.3;-104.7;Moria Orc-emissary;Mob
+-12.5;-103.9;Nalmadurz (hunter 58lvl class quest);Mob
+-12.8;-103.1;Claw Hollow;POI
+-11.5;-105.4;Sluice-box;Item
+-11.4;-105.3;Sluice-box;Item
+-11.5;-105.2;Sluice-box;Item
+-11.6;-105.0;Sluice-box;Item
+-11.6;-104.8;Sluice-box;Item
+-11.4;-104.6;Sluice-box;Item
+-11.9;-104.9;Sluice-box;Item
+-12.0;-105.0;Sluice-box;Item
+-12.2;-104.6;Sluice-box;Item
+-12.3;-104.7;Sluice-box;Item
+-10.9;-104.3;Snapjaw (minstrel 58lvl class quest);Mob
+-11.1;-106.9;Stable-master Orc-Watch;Stablemaster
+-11.9;-104.0;Statue-shoulder and arm;Item
+-11.1;-107.3;The Burning Altar;POI
+-14.0;-105.0;The Chittering Hole;POI
+-10.2;-103.9;The Gate of Ruin;POI
+-10.3;-103.9;The Grand Stair;POI
+-11.1;-105.5;The Ore-house;POI
+-10.3;-105.8;The Tailing Pit;POI
+-10.4;-105.4;The Way Of Smiths Entrance;POI
+-10.5;-105.7;Ukmash (hunter 58lvl class quest);Mob
+-12.7;-103.0;White Hand armour;Item
+-12.9;-103.2;White Hand banner;Item
+-11.2;-105.5;White Hand Helm;Item
+-11.7;-105.7;White Hand Helm;Item
+-11.8;-106.0;White Hand Helm;Item
+-12.4;-105.9;White Hand Helm;Item
+-11.8;-105.4;White Hand Helm;Item
+-11.8;-104.3;White Hand Helm;Item
+-12.3;-104.8;White Hand Helm;Item
+-12.6;-104.7;White Hand Helm;Item
+-13.1;-104.0;White Hand leg-bone;Item
+-12.9;-103.7;White Hand skull;Item
+-11.8;-103.4;Zimarp (hunter 58lvl class quest);Mob
+-11.5;-112.1;Blue Crystal;Item
+-11.1;-112.7;Camp Site Fire;Item
+-10.1;-111.8;Crude Map;Item
+-10.2;-111.1;Crude Map;Item
+-11.1;-111.0;Crude Map;Item
+-11.0;-111.3;Crude Map;Item
+-10.9;-111.0;Dwarf-make Dead-fall (Pukhlor spawn);Item
+-10.9;-112.2;Flik;NPC
+-9.9;-112.2;Forge-master;Item-master
+-10.4;-111.2;Gamil Filik;POI
+-11.8;-113.2;Green Crystal;Item
+-9.9;-112.8;Healer;Healer
+-9.8;-112.7;Mailbox;POI
+-11.0;-112.8;Menem-berej (The Forgotten Treasury);POI
+-11.2;-112.8;Menem-munz;POI
+-9.9;-112.7;Milestone;Milestone
+-10.9;-113.0;Mirror;Item
+-11.7;-113.0;Nykr's corpse;Item
+-11.2;-111.1;Orange Crystal;Item
+-11.1;-112.7;Pile Of Old Weapons;Item
+-12.5;-112.3;Pile Of Old Weapons;Item
+-11.0;-111.3;Pile Of Old Weapons;Item
+-10.3;-111.3;Plague Fake;Item
+-12.1;-111.3;Plague Real;Item
+-9.9;-112.7;Provisioner;Provisioner
+-10.6;-113.2;Purple Crystal;Item
+-11.7;-113.0;Puzzle Locket;Item
+-9.9;-112.2;Relic-master;Item-master
+-12.6;-112.6;Riddle (second quest);Item
+-9.8;-112.5;Stable-master;Stablemaster
+-12.2;-111.2;Stone Chest (answer to the riddle is moon);Item
+-12.6;-112.6;Sweina;NPC
+-9.9;-112.7;Tankard in Deep Descrent;Item
+-9.8;-112.6;The Deep Descent;POI
+-11.0;-112.9;The Way Of Smiths Entrance;POI
+-9.9;-113.1;Unmarked Chamber;POI
+-11.5;-113.7;Unmarked Tunnel;POI
+-14.9;-115.3;Brooch Of Lorien;Item
+-17.6;-116.9;Camp Site Fire;Item
+-13.6;-112.0;Deep-way Entrance;POI
+-13.6;-112.6;Durin's Beard;POI
+-17.0;-116.3;First goblin-corpse;Item
+-15.1;-111.7;Forge-master;Item-master
+-16.9;-116.9;Fourth goblin-corpse;Item
+-15.5;-113.0;Fungus Mushroom;Item
+-15.0;-113.3;Fungus Mushroom;Item
+-15.3;-113.3;Fungus Mushroom;Item
+-15.3;-113.2;Fungus Mushroom;Item
+-15.6;-113.1;Fungus Mushroom;Item
+-15.5;-113.5;Fungus Mushroom;Item
+-15.6;-113.5;Fungus Mushroom;Item
+-15.8;-113.5;Fungus Mushroom;Item
+-15.6;-113.7;Fungus Mushroom;Item
+-15.4;-113.9;Fungus Mushroom;Item
+-15.2;-113.6;Fungus Mushroom;Item
+-14.8;-112.7;Fungus Mushroom;Item
+-17.7;-111.5;Fungus-covered Mirror;Item
+-17.9;-115.2;Fungus-covered paddle;Item
+-17.7;-115.4;Fungus-covered paddle;Item
+-17.6;-115.5;Fungus-covered paddle;Item
+-17.6;-115.7;Fungus-covered paddle;Item
+-17.7;-115.8;Fungus-covered paddle;Item
+-17.8;-115.9;Fungus-covered paddle;Item
+-16.5;-114.0;Gabil-munz;POI
+-15.3;-112.4;Good Spot Of Water;POI
+-16.5;-116.5;GreatRoar (58lvl class quest loremaster);Mob
+-17.6;-116.9;Harazgund;POI
+-14.7;-112.1;Healer;Healer
+-16.8;-111.8;Kraibag;Mob
+-16.7;-116.9;Lizard-food;Item
+-15.0;-112.2;Mailbox;POI
+-17.5;-115.6;Main paddle;Item
+-17.1;-114.6;Melmar;NPC
+-15.1;-112.1;Milestone;Milestone
+-15.1;-114.8;Mirror;Item
+-20.4;-115.2;Molding Adventurer;Item
+-17.2;-114.7;Narag-kheleb;POI
+-16.7;-112.6;Pile Of Old Weapons;Item
+-15.7;-112.9;Pile Of Old Weapons;Item
+-14.7;-112.0;Provisioner;Provisioner
+-15.0;-111.7;Relic-master;Item-master
+-14.9;-114.7;Room Plaque;Item
+-18.0;-111.6;Room Plaque;Item
+-17.3;-111.2;Room Plaque;Item
+-17.0;-112.1;Room Plaque;Item
+-15.7;-115.3;Room Plaque;Item
+-17.0;-116.6;Second goblin-corpse;Item
+-15.8;-114.1;Shattered Crystal;Item
+-16.6;-113.3;Shattered Crystal;Item
+-17.0;-114.2;Shattered Crystal;Item
+-16.7;-114.4;Shattered Crystal;Item
+-16.3;-114.5;Shattered Crystal;Item
+-16.1;-114.3;Shattered Crystal;Item
+-16.0;-113.8;Shattered Crystal;Item
+-16.2;-113.7;Shattered Crystal;Item
+-15.1;-111.9;Stable-master;Stablemaster
+-16.8;-112.0;Statue Torso-piece;Item
+-15.1;-111.8;Tankard in Rotting Cellar;Item
+-16.9;-111.9;The Chamber of Dark Waters;POI
+-18.2;-111.6;The Chamber of Memory;POI
+-15.5;-115.3;The Chamber of the Pool;POI
+-16.7;-116.7;The Drowned Deep;POI
+-17.7;-115.6;The Great Wheel;POI
+-15.0;-114.9;The Lost Palace;POI
+-17.3;-111.0;The Lost Treasury;POI
+-15.1;-112.1;The Rotting Cellar;POI
+-20.6;-115.2;The Watcher;Mob
+-16.7;-116.5;Third goblin-corpse;Item
+-16.7;-112.2;Urbhrum;Mob
+-5.4;-105.1;Auctioner;Auctioneer
+-8.1;-107.1;Baiurz-mur;POI
+-5.9;-105.1;Bard of the Twenty-first Hall;Bard
+-11.7;-108.3;Bonfire;Item
+-11.7;-108.1;Bonfire;Item
+-11.5;-108.1;Bonfire;Item
+-11.9;-108.2;Bonfire;Item
+-12.0;-108.3;Bonfire;Item
+-12.2;-108.2;Bonfire;Item
+-12.4;-108.3;Bonfire;Item
+-12.3;-107.8;Bonfire;Item
+-12.2;-107.7;Bonfire;Item
+-12.0;-107.8;Bonfire;Item
+-11.8;-107.7;Bonfire;Item
+-11.8;-107.8;Bonfire;Item
+-11.6;-108.0;Budkhul-tharakh;POI
+-6.2;-105.4;Burglar Trainer;Burglar Trainer
+-6.1;-105.4;Captain Trainer;Captain Trainer
+-4.8;-105.3;Chamber of Mazarbul;POI
+-6.3;-105.3;Champion Trainer;Champion Trainer
+-5.4;-104.9;Crafting Guild Trainer;NPC
+-4.7;-105.3;Debris (right item for book 3);Item
+-8.0;-105.4;Durub Shrine;Item
+-9.1;-107.4;Dwarf Scroll (burglar 58lvl class quest);Item
+-9.0;-106.9;Dwarf Scroll (burglar 58lvl class quest);Item
+-11.4;-107.0;Dwarf-trap;Item
+-11.4;-107.3;Dwarf-trap;Item
+-11.3;-107.4;Dwarf-trap;Item
+-11.4;-107.5;Dwarf-trap;Item
+-11.4;-107.8;Dwarf-trap;Item
+-11.4;-108.1;Dwarf-trap;Item
+-11.0;-108.3;Dwarf-trap;Item
+-11.1;-108.0;Dwarf-trap;Item
+-5.4;-104.9;Expert Cook;Expert Cook
+-5.4;-104.9;Expert Jeweller;Expert Jeweller
+-5.4;-104.9;Expert Metalsmith;Expert Metalsmith
+-5.4;-104.9;Expert Scholar;Expert Scholar
+-5.4;-104.9;Expert Tailor;Expert Tailor
+-5.4;-104.9;Expert Weaponcrafter;Expert Weaponcrafter
+-5.4;-104.9;Expert Woodworker;Expert Woodworker
+-5.4;-104.9;Forge-master;Item-master
+-9.7;-108.7;Gabil-hul;POI
+-9.0;-107.2;Gabil-mamach;POI
+-8.2;-105.4;Gazatu-ru;POI
+-6.3;-105.3;Guardian Trainer;Guardian Trainer
+-9.1;-107.7;Hall of Flowing Water;POI
+-11.0;-106.6;Healer Orc-watch;Healer
+-5.8;-105.1;Healer Twenty-first Hall;Healer
+-11.1;-106.8;Heavy Armor Trader;Heavy Armor Trader
+-5.7;-105.2;Hobby Master;NPC
+-6.0;-105.5;Hunter Trainer;Hunter Trainer
+-5.7;-105.1;Iron Garrison Guards;NPC
+-11.0;-106.7;Iron Garrison Guards;NPC
+-5.7;-105.1;Iron Garrison Guard Trader;NPC
+-5.9;-105.0;Iron Garrison Miners;NPC
+-5.9;-105.0;Iron Garrison Miner Trader;NPC
+-12.1;-108.0;Khufdul-tharakh;POI
+-11.1;-106.7;Light Armor Trader;Light Armor Trader
+-6.0;-105.2;Loremaster Trainer;Loremaster Trainer
+-5.7;-105.4;Mailbox;POI
+-5.4;-104.9;Master of Apprentice;Master of Apprentices
+-11.0;-106.7;Medium Armor Trader;Medium Armor Trader
+-8.4;-107.7;Mezel-katub (Green Door);POI
+-11.1;-106.6;Milestone Orc-watch;Milestone
+-5.8;-105.1;Milestone Twenty-first Hall;Milestone
+-6.0;-105.2;Ministrel Trainer;Ministrel Trainer
+-10.8;-108.2;Moria Orc-Banner;Item
+-7.2;-108.3;Mormaudhul;POI
+-6.4;-107.7;Mudmul-charaf;POI
+-7.6;-106.9;Orc-wall Section (barricade for quest in Baiurz-mur);Item
+-7.5;-105.8;Ozut and Khil;Mob
+-6.7;-104.7;Pile Of Old Weapons;Item
+-4.8;-104.7;Pile Of Old Weapons;Item
+-11.0;-106.7;Provisioner Orc-watch;Provisioner
+-5.8;-105.1;Provisioner Twenty-first Hall;Provisioner
+-7.9;-105.6;Puzzle Of The Carvings;POI
+-8.5;-108.4;Raulik;Mob
+-6.0;-105.2;Reflecting Pool Twenty-first Hall;Item
+-5.4;-104.9;Relic-master;Item-master
+-7.3;-105.8;Rokur;NPC
+-10.8;-108.2;Rugh;Mob
+-6.2;-105.3;Runekeeper Trainer;Runekeeper Trainer
+-6.1;-105.2;Sage of Moria;NPC
+-8.1;-108.3;Skrithurz-ulima;POI
+-7.5;-107.7;Spear-mount;Item
+-7.5;-107.6;Spear-mount;Item
+-7.5;-107.5;Spear-mount;Item
+-7.6;-107.5;Spear-mount;Item
+-7.7;-107.6;Spear-mount;Item
+-7.4;-107.6;Spear-mount;Item
+-7.6;-107.7;Spear-mount;Item
+-5.7;-105.3;Stable-master Twenty-first Hall;Stablemaster
+-7.7;-105.8;Statue Head;Item
+-8.1;-106.9;Statue Head;Item
+-5.4;-104.9;Superior Forge;Item
+-5.4;-104.9;Superior Oven;Item
+-5.4;-104.9;Superior Study;Item
+-5.4;-104.9;Superior Workbench;Item
+-11.0;-106.6;Tankard in Orc-watch;Item
+-5.8;-105.1;Tankard in Twenty-first Hall;Item
+-6.0;-105.2;Taxidermist;NPC
+-7.6;-107.6;The Broad Ways;POI
+-7.6;-105.2;The Great Hall of Durin;POI
+-7.6;-109.7;The Lonely Span;POI
+-11.1;-106.7;The Orc-watch;POI
+-5.0;-105.6;The Twenty-first Hall: North Arch;POI
+-5.8;-105.6;The Twenty-first Hall;POI
+-5.8;-104.4;The Twenty-first Hall: East Arch;POI
+-6.6;-105.6;The Twenty-first Hall: South Arch;POI
+-7.6;-106.9;The Wide Halls;POI
+-6.8;-104.6;Utrygg;NPC
+-10.5;-107.9;Uzbad-bakan;POI
+-5.6;-104.9;Vault-Keeper;NPC
+-6.0;-105.4;Warden Trainer;Warden Trainer
+-6.4;-107.3;Zurr-Tharukh (Green Door);POI
+-4.8;-105.4;Warr;NPC
+-6.5;-105.4;Chamber Of Leadership;POI
+-7.5;-115.8;Athils;NPC
+-8.8;-111.1;Blue Door;POI
+-6.6;-113.8;Carapace;Item
+-6.6;-113.5;Carapace;Item
+-6.4;-113.3;Carapace;Item
+-6.8;-113.3;Carapace;Item
+-6.6;-112.9;Carapace;Item
+-6.8;-113.0;Carapace;Item
+-6.7;-112.8;Carapace;Item
+-9.1;-113.5;Deep-way Entrance;POI
+-8.5;-112.2;Dolven-view;POI
+-8.0;-115.9;Durin's Threshold;POI
+-7.5;-115.8;Durin's Threshold: North Wing;POI
+-8.5;-115.8;Durin's Threshold: South Wing;POI
+-8.1;-116.1;Milestone Durin's Threshold;Milestone
+-7.9;-116.1;Stable-master Durin's Threshold;Stablemaster
+-7.9;-116.1;Healer Durin's Threshold;Healer
+-7.9;-116.1;Provisioner Durin's Threshold;Provisioner
+-7.9;-116.1;Tankard in Durin's Threshold;Item
+-7.0;-111.2;Falgeirr's Pages;Item
+-7.0;-111.3;Fallen Plague;Item
+-7.2;-111.2;Fifth Mirror;Item
+-8.0;-111.9;First Mirror;Item
+-8.4;-112.3;Forge-master;Item-master
+-8.1;-111.0;Fourth Mirror;Item
+-7.6;-111.3;Gazatmur;POI
+-7.9;-111.6;Goblin Platform;Item
+-7.8;-111.8;Goblin Platform;Item
+-7.5;-111.7;Goblin Platform;Item
+-8.6;-112.1;Healer Dolven-view;Healer
+-6.5;-113.4;Hive Nest;Item
+-8.6;-112.2;Iron Garrison Guards;NPC
+-8.6;-112.3;Iron Garrison Miners;NPC
+-7.7;-114.7;Kambi;NPC
+-7.0;-111.0;Katub-zahar;POI
+-7.5;-113.3;Lamab-dum;POI
+-8.1;-112.2;Legendary Burglar Trader;Weapontrader
+-8.1;-112.2;Legendary Captain Trader;Weapontrader
+-8.0;-112.2;Legendary Champion Trader;Weapontrader
+-8.0;-112.3;Legendary Guardian Trader;Weapontrader
+-8.2;-112.3;Legendary Hunter Trader;Weapontrader
+-8.1;-112.2;Legendary Loremaster Trader;Weapontrader
+-8.1;-112.2;Legendary Minstrel Trader;Weapontrader
+-8.1;-112.2;Legendary Runekeeper Trader;Weapontrader
+-8.0;-112.3;Legendary Warden Trader;Weapontrader
+-8.5;-112.2;Mailbox;POI
+-8.6;-112.3;Milestone Dolven-view;Milestone
+-8.1;-111.7;Ornate Chest-Piece;Item
+-7.8;-115.4;Pile Of Old Weapons;Item
+-7.6;-111.4;Pile Of Old Weapons;Item
+-8.6;-112.2;Provisioner Dolven-view;Provisioner
+-8.0;-115.2;Rathulf;NPC
+-8.4;-112.3;Relic-master;Item-master
+-7.8;-110.7;Rubble;Item
+-7.8;-110.6;Rubble;Item
+-7.9;-110.7;Rubble;Item
+-8.0;-110.7;Rubble;Item
+-7.9;-110.8;Rubble;Item
+-8.0;-110.8;Rubble;Item
+-8.2;-110.9;Rubble;Item
+-8.3;-110.8;Rubble;Item
+-7.0;-112.1;Second Mirror;Item
+-7.8;-114.4;Snaga-maudhul;POI
+-8.4;-112.4;Stable-master Dolven-view;Stablemaster
+-8.6;-112.1;Tankard in Dolven-View;Item
+-8.3;-114.9;The Chamber of Deep Thought;POI
+-7.5;-112.0;The Chamber of Knowledge;POI
+-7.8;-112.3;The Chamber of Wisdom;POI
+-8.4;-111.2;The Cooling Chamber;POI
+-6.4;-112.0;The Dwarf-lords' Gate;POI
+-6.6;-113.6;The Palace of Nain;POI
+-9.1;-112.2;The Stone Council;POI
+-8.9;-113.4;The Vault of Durin;POI
+-6.8;-112.8;Third Mirror;Item
+-6.7;-112.0;Waterway-lever;Item
+-7.5;-114.8;Shemeldurj;POI
+-6.9;-111.0;Ancient Dwarven Text (Securing the Library quest);Item
+-8.1;-113.5;Rocktooth (deep-claw hunter, drops mithril flake);Mob
+-16.7;-116.9;Stonecrest (Fighting Slime with Slime quest);Mob
+-7.3;-112.3;Pile Of Old Weapons;Item
+-6.6;-112.3;Pile Of Old Weapons;Item
+-3.1;-112.0;Taugan;Mob, Moria Warg-Rider Mithril Flake Dropper (roaming around)
+-2.7;-103.0;Pile Of Old Weapons;Item
+-8.3;-108.4;Drandacircgh;Mob, Elite Master Mithril Flake Dropper
+-16.4;-107.9;Throqanducircrz;Mob, Ghandacircsh-hai Warrior elite mithril flake dropper
+-7.5;-105.8;Naga;Mob, troll, mithril flake dropper
+-17.6;-116.9;Kaldi;NPC
+-12.9;-100.8;Mallas;NPC
+-5.5;-108.9;Darri;NPC
+-5.5;-108.9;Orvar;NPC
+-5.5;-108.9;Galadhrim Reputation Trader;NPC
+-5.4;-108.9;Mekeb-faham;POI
+-5.5;-108.9;Mekeb-farak;POI
+-5.5;-108.9;Iron Garrison Resource Cache;Item
+-4.3;-108.6;Buzun-ghar entrance (book 2.7.4);POI
+-7.2;-104.7;Sejer-tharakh;POI
+-7.2;-104.7;Torfi;NPC
+-7.2;-104.7;Burkni;NPC
+-7.2;-104.7;Galadhrim Reputation Trader;NPC
+-7.2;-104.8;Bult-kar;POI
+-7.8;-112.3;Record Coffer (book 2.7.6);Item
+-13.0;-105.7;Gharaf-fehem;POI
+-13.1;-105.7;Fulz-zahar;POI
+-13.1;-105.6;Tumun-ghar;POI
+-13.1;-105.6;Alwar;NPC
+-13.1;-105.7;Hersiir;NPC
+-13.1;-105.6;Galadhrim Reputation Trader;NPC
+-13.1;-105.6;Iron Garrison Resource Cache;Item
+-16.4;-113.7;Door to the Instance - Filikul;Item
+-4.3;-102.0;Crystal Sample;Item
+-4.4;-102.0;Crystal Sample;Item
+-4.5;-102.0;Crystal Sample;Item
+-4.7;-102.2;Crystal Sample;Item
+-4.6;-102.2;Crystal Sample;Item
+-4.5;-102.2;Crystal Sample;Item
+-16.3;-113.7;Pure Sample Of Strange Goo;Item
+-17.7;-115.4;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-17.4;-115.5;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-17.5;-115.7;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-18.0;-116.0;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-14.7;-114.8;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-14.8;-115.1;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-14.7;-115.1;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-14.9;-115.0;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-16.7;-112.2;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-16.8;-112.1;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-16.6;-112.1;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-16.6;-112.3;Ancient Dwarf-texts (58lvl class quest loremaster);Item
+-5.7;-105.6;Sigthorn;NPC, book 2.3.6.1
+-5.7;-105.5;Skygni;NPC, book 2.3.6.1
+-6.2;-105.8;Wili;NPC, book 2.3.6.1
+-5.9;-104.9;Sebbi;NPC, book 2.3.6.1
+-5.6;-105.1;Wethur;NPC, book 2.3.6.1
+-5.4;-104.8;Stilling;NPC, book 2.3.6.1
+-14.5;-108.6;Wooden Slat;Item
+-14.2;-108.6;Wooden Slat;Item
+-14.2;-108.9;Wooden Slat;Item
+-14.1;-109.0;Wooden Slat;Item
+-14.1;-109.3;Wooden Slat;Item
+-14.4;-109.4;Wooden Slat;Item
+-14.6;-109.3;Wooden Slat;Item
+-14.6;-109.6;Wooden Slat;Item
+-14.5;-108.7;Iron Bar;Item
+-14.2;-108.6;Iron Bar;Item
+-14.1;-108.9;Iron Bar;Item
+-14.1;-109.3;Iron Bar;Item
+-14.4;-109.4;Iron Bar;Item
+-14.5;-109.3;Iron Bar;Item
+-14.6;-109.6;Iron Bar;Item
+-16.8;-107.0;Iron Bar;Item
+-16.2;-96.8;Donfuin;NPC
+-16.4;-96.8;Dar Narbugud Entrance;POI
+-14.2;-112.7;Entrance to The Water Wheels: Nala-dum;POI
+-16.9;-109.4;Cornellon;NPC
+-16.9;-109.4;Baranglim;NPC
+-17.0;-109.4;Entrance to Halls Of Crafting;POI
+-5.2;-112.0;Frar;NPC
+-5.2;-112.0;Dor;NPC
+-5.2;-112.0;Hrolfur;NPC
+-5.2;-111.9;Sigdan;NPC
+-6.1;-105.0;Skirmish Captain;NPC
+-6.1;-105.0;Skirmish Trainer;NPC
+-6.1;-105.1;Skirmish Legendary Items;NPC
+-6.1;-105.1;Skirmish Curiosities;NPC
+-6.1;-105.1;Skirmish Crafting;NPC
+-6.2;-105.1;Skirmish Heavy Armour;NPC
+-6.1;-105.0;Skirmish Provisions;NPC
+-6.1;-105.0;Skirmish Cosmetics;NPC
+-6.1;-105.0;Skirmish Weapons;NPC
+-6.1;-105.0;Skirmish Medium Armour;NPC
+-6.2;-105.0;Skirmish Jewellery And Cloaks;NPC
+-6.2;-105.0;Skirmish Light Armour;NPC
+-6.1;-105.1;Skirmish Camp;POI
